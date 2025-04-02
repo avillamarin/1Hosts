@@ -1,8 +1,8 @@
 ! Title: 1Hosts (Pro)
-! Last modified: 2025-04-02T14:02:46.410Z
+! Last modified: 2025-04-02T16:29:00.736Z
 ! ..............
 !  |URL: https://github.com/badmojr/1Hosts
-!  |Count: 159,511 rules!
+!  |Count: 159,518 rules!
 !  |Size: 3.42 MB
 !  |
 !  |Credits & ©: https://o0.pages.dev/-data/lists/assets.txt
@@ -25031,6 +25031,7 @@
 ||axp.wric.com^
 ||begantotireo.xyz^
 ||biggestdealsonline.com^
+||bostryxagamis.com^
 ||changeablecats.com^
 ||counter.lightningmaps.org^
 ||crossinstall.io^
@@ -25122,7 +25123,6 @@
 ||image.mail.lidl.us^
 ||info.square-9.com^
 ||janrainsso.com^
-||ji.bostryxagamis.com^
 ||kuchiku.digital^
 ||lake.joongang.co.kr^
 ||luyten-98c.com^
@@ -30302,7 +30302,6 @@
 ||4wens.org^
 ||4wnet.com^
 ||4x4maroc.com^
-||5-157-110-232.dyn.eolo.it^
 ||5003659.com^
 ||500intal.com^
 ||5050.fm^
@@ -35601,6 +35600,7 @@
 ||acesso-empresarial.s3.ap-south-1.amazonaws.com^
 ||acesso-safra-empresas.s3-sa-east-1.amazonaws.com^
 ||acestream.me^
+||acetylsbrocht.shop^
 ||acewareuniversity.com^
 ||acexaulr.com^
 ||aceyearling.com^
@@ -45578,6 +45578,7 @@
 ||ashergroup.actonservice.com^
 ||ashesloindestroy.com^
 ||ashesrational.com^
+||ashetandrew.com^
 ||ashevillecabinets.org^
 ||ashevillemusictours.com^
 ||ashevilleradonmitigationandtesting.com^
@@ -45638,7 +45639,6 @@
 ||asimarketing.antonsystems.com^
 ||asimov-win.settings.data.microsoft.com.akadns.net^
 ||asimplyblog.blogspot.com^
-||asistani.com.tr^
 ||asistente.christus.mx^
 ||asiteisborn.com^
 ||asjynxon.com^
@@ -53483,6 +53483,7 @@
 ||carwaters.com^
 ||casadivita.despar.it^
 ||casakintail.com^
+||casalomaminca.com^
 ||cascadeawful.com^
 ||cascademuscularbodyguard.com^
 ||cascadetraitor.com^
@@ -59069,6 +59070,7 @@
 ||cpsnetwork.hk^
 ||cpt-exmple.com^
 ||cpt.9136.com^
+||cpte-view.com^
 ||cptefr.com^
 ||cpu-baidu-com-block.cdn.bcebos.com^
 ||cpu-openapi.baidu.com^
@@ -60274,6 +60276,7 @@
 ||cvoyrn.astotel.com^
 ||cvpthv.vipoutlet.com^
 ||cvqrcode.lpmglobalrelations.com^
+||cvrsystem.fr^
 ||cvrtrkpro.com^
 ||cvtr.makerepeater.jp^
 ||cvtuqfll.xyz^
@@ -61768,6 +61771,7 @@
 ||dafeb.ru^
 ||dafedae.com^
 ||daffaite.com^
+||daffishdudaim.com^
 ||daffishrenky.shop^
 ||daffodilnotifyquarterback.com^
 ||daftaraja.click^
@@ -66084,7 +66088,6 @@
 ||down.fwqlt.com^
 ||down.gmexiochappt.com^
 ||down.mvip8.ru^
-||down.pcclear.com^
 ||down.qqfarmer.com.cn^
 ||down.tracksz.co^
 ||downcode.com^
@@ -66117,6 +66120,7 @@
 ||download.frolit.io^
 ||download.getneema.com^
 ||download.grandcloud.cn^
+||download.haozip.com^
 ||download.helponymous.com^
 ||download.ibuzza.net^
 ||download.innit.com^
@@ -68513,6 +68517,7 @@
 ||electrum-dogecoin.com^
 ||electrum-xrp.org^
 ||electus.com^
+||elefantenfutter.de^
 ||eleganceuniversitycheque.com^
 ||elegantheat.live^
 ||eleganthivex.com^
@@ -74974,7 +74979,6 @@
 ||furnitureapartassumed.com^
 ||furnitureapplicationberth.com^
 ||furnituredl.istaging.co^
-||furnyso.ro^
 ||furordosed.shop^
 ||furplay.net^
 ||furricity-nursubaru.xyz^
@@ -78293,6 +78297,7 @@
 ||goodtrack.ru^
 ||goodvibesmatterforus.com^
 ||goodvpnoffers.com^
+||goodwillnourishmentcousins.com^
 ||goodwitchclover.com^
 ||goodybikini.com^
 ||goodygumsabbreviate.com^
@@ -82651,6 +82656,7 @@
 ||hukymuy.pro^
 ||hulajnet.pl^
 ||hulichuang.mobi^
+||hullloofas.top^
 ||hulocvvma.com^
 ||hulqoeb.click^
 ||human-culture.com^
@@ -86903,6 +86909,7 @@
 ||inthrsnapl.com^
 ||intimacyastronomygutter.com^
 ||intimacybroadcast.com^
+||intimaeetc.shop^
 ||intimidatejealousswear.com^
 ||intimidatingbargain.com^
 ||intimmag.ru^
@@ -88402,7 +88409,6 @@
 ||jessamynylon.com^
 ||jessamysecretive.com^
 ||jessbillington.com^
-||jessespridecharters.com^
 ||jessicakooy.com^
 ||jessonthemend.com^
 ||jestersmc.com^
@@ -94097,7 +94103,6 @@
 ||littlecutelions.com^
 ||littleearthquakeprivacy.com^
 ||littlefarminthemaking.com^
-||littlemoroccanthings.com^
 ||littlemtlogistics.net^
 ||littleofer.com^
 ||littleoxfordschool.com^
@@ -96557,7 +96562,6 @@
 ||mail.jbm6c54upkui.com^
 ||mail.kguapp.com^
 ||mail.laptweakbriefly.com^
-||mail.ningbocrm.com^
 ||mail.pages.exchange-midasbuy.com^
 ||mail.reedsbullyingpastel.com^
 ||mail.rethinkretirementincome.co.uk^
@@ -98611,6 +98615,7 @@
 ||masdpanalytics.azureedge.net^
 ||masenkotrkr.com^
 ||masessionrbcca.com^
+||masgrave.com^
 ||mashbsetoire.pro^
 ||mashkarutka.top^
 ||mashwarny.com^
@@ -106027,6 +106032,7 @@
 ||nenrava.life^
 ||nenseely.com^
 ||nenvototlxoyo.xyz^
+||neoarchiinc.com^
 ||neoban.su^
 ||neobasnet.timeout.ru^
 ||neobits.net^
@@ -110656,7 +110662,6 @@
 ||onyxsafenova.de^
 ||onyxsafetrack.de^
 ||onyxscorpio.de^
-||onyxsecuregate.de^
 ||onyxsentinelx.de^
 ||onyxshieldpro.de^
 ||onyxstealthnet.de^
@@ -111276,6 +111281,7 @@
 ||orsszeazsx.com^
 ||orteccommunications.com^
 ||ortgageotorwa.com^
+||orthantnavig.com^
 ||orthodoxrespondedcollide.com^
 ||orthomaxdental.com^
 ||ortkrq.damyller.com.br^
@@ -119837,6 +119843,7 @@
 ||quangcao.24h.com.vn^
 ||quangcao.fff.com.vn^
 ||quangvuweather.com^
+||quanly.jxmienphi.net^
 ||quanlyphongnet.com^
 ||quanmama.com^
 ||quant-ifa.com^
@@ -119867,6 +119874,7 @@
 ||quarepush.com^
 ||quaretacca.com^
 ||quarhe.com^
+||quarkfob.top^
 ||quarktechsys.com^
 ||quarryfishbar.com^
 ||quartdfang.com^
@@ -120040,6 +120048,7 @@
 ||quikbrowser.com^
 ||quiksilver-polska.com^
 ||quilkinhulking.shop^
+||quilkintax.com^
 ||quilladot.org^
 ||quillion.com^
 ||quillsconi.top^
@@ -128996,6 +129005,7 @@
 ||shpesken.com^
 ||shpoofy.com^
 ||shpyryypsxwio.com^
+||shqdown.ggzuhao.com^
 ||shqfryybwthiss.com^
 ||shqmetrics.sony.com^
 ||shraddhaivf.com^
@@ -136613,7 +136623,6 @@
 ||stda.edu.mn^
 ||stdkhrcbsomys.com^
 ||stdout.cc^
-||stdown.dinju.com^
 ||steadfastlurch.com^
 ||steadfastsound.com^
 ||steadilyearnfailure.com^
@@ -137930,6 +137939,7 @@
 ||support-case-id-weld.vercel.app^
 ||support-center-for-business.updateappealv9.biz^
 ||support-comtegra.pl^
+||support-data.com^
 ||support-e-n.com^
 ||support-en-coinbase-sso-cdn.webflow.io^
 ||support-liedgor.webflow.io^
@@ -138609,7 +138619,6 @@
 ||symantec.ecs.arrow.com^
 ||symantec.evergage.com^
 ||symantke.com^
-||symbietic.com^
 ||symbio.actonservice.com^
 ||symbiotyx.com^
 ||symbolsovereigndepot.com^
@@ -147943,7 +147952,6 @@
 ||update.purina.com^
 ||update.smartallyes.com^
 ||update.vlnguba.com^
-||update.volam2005pk.com^
 ||update.yobox.cloud^
 ||update1.api.augeapps.com^
 ||update2.api.augeapps.com^
@@ -148973,7 +148981,6 @@
 ||vazulp.graniph.com^
 ||vazypteke.pro^
 ||vb.secqueduomo.com^
-||vbccorretoradeseguros.com.br^
 ||vbdgwxhxukpkmu.com^
 ||vbe.voyage-prive.be^
 ||vbedrom.tilda.ws^
@@ -151641,11 +151648,11 @@
 ||web.email.umbro.co.uk^
 ||web.fiqhelp.top^
 ||web.frontapp.com^
-||web.getsupportbr.com^
 ||web.givingli.com^
 ||web.hammacher.com^
 ||web.health.memorialcare.org^
 ||web.histoire.emailing.bnpparibas^
+||web.hlghelp.top^
 ||web.houstontexans.com^
 ||web.hubfinancialsolutions.co.uk^
 ||web.i91av.org^
@@ -154458,7 +154465,6 @@
 ||www.baw5tracker.com^
 ||www.bazefrost.ru^
 ||www.bcaeurope.eu^
-||www.bchelp.top^
 ||www.bclick.com.br^
 ||www.be^
 ||www.be2.dk^
@@ -155421,6 +155427,7 @@
 ||www.nas-k.co.jp^
 ||www.naturesunshine.com^
 ||www.navy9gear.com^
+||www.nawatbsc.com^
 ||www.nbcacdrup.com^
 ||www.ncads.s3.amazonaws.com^
 ||www.ncsreporting.com^
@@ -156363,7 +156370,6 @@
 ||www924-centrum.24-pl.es^
 ||www9588.web-centrum24-pl.es^
 ||www999999asgasg-1327129302.cos.ap-chengdu.myqcloud.com^
-||www999999safagqwhg-1327129302.cos.ap-chengdu.myqcloud.com^
 ||wwwadcntr.com^
 ||wwwads.seoul.co.kr^
 ||wwwal.com^
@@ -157169,6 +157175,7 @@
 ||xn--n8j0la8wb3547bghe.jp^
 ||xn--n8jwkyc7fw52nfvd.jp^
 ||xn--norvpn-y2a.com^
+||xn--on3b15m2lco2u.com^
 ||xn--otu027d.com^
 ||xn--pcko0l.net^
 ||xn--pocztapolska-zapata-pl-7wd.irishfees.contact^

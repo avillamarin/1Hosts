@@ -1,6 +1,6 @@
 {
   "name": "1Hosts (Lite)",
-  "description": "! Expires: 4 days\n!  .............\n!  |URL: https://github.com/badmojr/1Hosts\n!  |Count: 36,720 rules!\n!  |Size: 919.08 KB\n!  |Updated: 2025-04-02T14:02:47.730Z\n!  |\n!  |Credits & ©: https://o0.pages.dev/-data/lists/assets.txt\n!  |Licence: MPLv2,\n!  | https://www.mozilla.org/en-US/MPL/2.0/\n!  /\n! ( Please report any issues related to this file.\n!  \\......................................\n!  | GH: github.com/badmojr/1Hosts/issues\n!  \\____________________\n",
+  "description": "! Expires: 4 days\n!  .............\n!  |URL: https://github.com/badmojr/1Hosts\n!  |Count: 36,720 rules!\n!  |Size: 919.08 KB\n!  |Updated: 2025-04-02T16:29:01.832Z\n!  |\n!  |Credits & ©: https://o0.pages.dev/-data/lists/assets.txt\n!  |Licence: MPLv2,\n!  | https://www.mozilla.org/en-US/MPL/2.0/\n!  /\n! ( Please report any issues related to this file.\n!  \\......................................\n!  | GH: github.com/badmojr/1Hosts/issues\n!  \\____________________\n",
   "process": "any",
   "denied-remote-domains": [
     "doubleclick.net",
@@ -14821,6 +14821,7 @@
     "axp.ozarksfirst.com",
     "axp.wric.com",
     "begantotireo.xyz",
+    "bostryxagamis.com",
     "changeablecats.com",
     "debonairtree.com",
     "edayo.miyuki-web.net",
@@ -14868,7 +14869,6 @@
     "coocaatv.com",
     "formalyzer.com",
     "ifs.lazada.sg",
-    "ji.bostryxagamis.com",
     "lake.joongang.co.kr",
     "luyten-98c.com",
     "median.eu",

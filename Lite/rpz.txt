@@ -1,5 +1,5 @@
 ; Title: 1Hosts (Lite)
-; Last modified: 2025-04-02T14:02:48.202Z
+; Last modified: 2025-04-02T16:29:02.258Z
 ; ..............
 ;  |URL: https://github.com/badmojr/1Hosts
 ;  |Count: 73,440 rules!
@@ -15,7 +15,7 @@
 ;  \____________________
 
 $TTL 300
-@ SOA localhost. root.localhost. 1743602561 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1743611335 43200 3600 259200 300
   NS  localhost.
 
 *.doubleclick.net CNAME .
@@ -29654,6 +29654,8 @@ axp.ozarksfirst.com CNAME .
 axp.wric.com CNAME .
 *.begantotireo.xyz CNAME .
 begantotireo.xyz CNAME .
+*.bostryxagamis.com CNAME .
+bostryxagamis.com CNAME .
 *.changeablecats.com CNAME .
 changeablecats.com CNAME .
 *.debonairtree.com CNAME .
@@ -29748,8 +29750,6 @@ coocaatv.com CNAME .
 formalyzer.com CNAME .
 *.ifs.lazada.sg CNAME .
 ifs.lazada.sg CNAME .
-*.ji.bostryxagamis.com CNAME .
-ji.bostryxagamis.com CNAME .
 *.lake.joongang.co.kr CNAME .
 lake.joongang.co.kr CNAME .
 *.luyten-98c.com CNAME .

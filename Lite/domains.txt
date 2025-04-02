@@ -1,8 +1,8 @@
 # Title: 1Hosts (Lite)
-# Last modified: 2025-04-02T14:02:49.050Z
+# Last modified: 2025-04-02T16:29:02.959Z
 # ..............
 #  |URL: https://github.com/badmojr/1Hosts
-#  |Count: 85,727 rules!
+#  |Count: 85,728 rules!
 #  |Size: 1.89 MB
 #  |
 #  |Credits & ©: https://o0.pages.dev/-data/lists/assets.txt
@@ -47997,6 +47997,7 @@ axp.wric.com
 begantotireo.xyz
 blog.kma.biz
 bnn.api.useinsider.com
+bostryxagamis.com
 careers.criteo.com
 cdn-kuveytturk.dataroid.com
 changeablecats.com
