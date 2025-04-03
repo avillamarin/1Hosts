@@ -1,6 +1,7 @@
 # Contributors:
 http://npc.0am.jp/hosts.php?dl=1
 https://github.com/bitamind/filter/raw/master/280blocker_domain_mirror.txt
+https://filters.adtidy.org/extension/chromium/filters/15.txt
 https://filters.adtidy.org/extension/chromium/filters/14.txt
 https://filters.adtidy.org/extension/chromium/filters/8.txt
 https://filters.adtidy.org/extension/chromium/filters/2.txt
