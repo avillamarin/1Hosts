@@ -1,8 +1,8 @@
 # Title: 1Hosts (Lite)
-# Last modified: 2025-04-02T16:29:03.295Z
+# Last modified: 2025-04-03T04:04:19.270Z
 # ..............
 #  |URL: https://github.com/badmojr/1Hosts
-#  |Count: 85,728 rules!
+#  |Count: 85,756 rules!
 #  |Size: 2.54 MB
 #  |
 #  |Credits & ©: https://o0.pages.dev/-data/lists/assets.txt
@@ -1359,6 +1359,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 rtb.primis.tech
 0.0.0.0 s-cs.rmp.rakuten.com
 0.0.0.0 ad.sxp.smartclip.net
+0.0.0.0 mdp-appconf-sg.heytapdl.com
 0.0.0.0 res1.applovin.com
 0.0.0.0 admedo.com
 0.0.0.0 sync.a-mo.net
@@ -3072,6 +3073,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 amnew.net
 0.0.0.0 cdn.amnew.net
 0.0.0.0 edgetrksvc.ebay.com
+0.0.0.0 mdp-appconf-us.heytapdl.com
 0.0.0.0 app.getbeamer.com
 0.0.0.0 su.semasio.net
 0.0.0.0 t.company-target.com
@@ -4387,6 +4389,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 a.adtng.com
 0.0.0.0 a.mts.ru
 0.0.0.0 px-intl.ucweb.com
+0.0.0.0 mdp-appconf-eu.heytapdl.com
 0.0.0.0 s.pubmine.com
 0.0.0.0 cdn.petametrics.com
 0.0.0.0 zndiiommxyi80h9gu-workdayinc.siteintercept.qualtrics.com
@@ -5798,6 +5801,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 onsite.optimonk.com
 0.0.0.0 publicgood.com
 0.0.0.0 ive8im-cdn-settings.appsflyersdk.com
+0.0.0.0 mdp-appconf-id.heytapdl.com
 0.0.0.0 cdn.insurads.com
 0.0.0.0 t.castle.io
 0.0.0.0 fls-eu.amazon.de
@@ -7005,6 +7009,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ld.lngtd.com
 0.0.0.0 gcp.smaato.net
 0.0.0.0 vlb.gcp.smaato.net
+0.0.0.0 dragate-sg.dc.heytapmobi.com
 0.0.0.0 tx-kmpaudio.pull.yximgs.com
 0.0.0.0 stats-dev.brid.tv
 0.0.0.0 cdn.convertbox.com
@@ -7679,6 +7684,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 templates.inmobi.com
 0.0.0.0 ifota.coloros.com
 0.0.0.0 cw-static.aditude.io
+0.0.0.0 pixel.wetracked.io
 0.0.0.0 log-api.pangolin-sdk-toutiao-b.com
 0.0.0.0 gacraft.jp
 0.0.0.0 us1-spiky.clevertap-prod.com
@@ -8671,6 +8677,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 y.mdhv.io
 0.0.0.0 log.adtimaserver.vn
 0.0.0.0 analytics.kidoz.net
+0.0.0.0 chivpelorus.top
 0.0.0.0 ewr-660.ewr-rtb1.rfihub.com
 0.0.0.0 push-sdk.com
 0.0.0.0 a2395.casalemedia.com
@@ -9749,6 +9756,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 synchrobox.ec2eu.adswizz.com
 0.0.0.0 px.vliplatform.com
 0.0.0.0 vin.cookies.geo.nextmillmedia.com
+0.0.0.0 mdp-appconf-mm.heytapdl.com
 0.0.0.0 metrics1.citibankonline.com
 0.0.0.0 p33254.cedexis-test.com
 0.0.0.0 mooncrustpizza.com
@@ -11979,6 +11987,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 a5688.casalemedia.com
 0.0.0.0 a5710.casalemedia.com
 0.0.0.0 ssc.cvent.com
+0.0.0.0 wikewmvxhjr.com
 0.0.0.0 a5584.casalemedia.com
 0.0.0.0 a5603.casalemedia.com
 0.0.0.0 xml.zaimads.com
@@ -12065,6 +12074,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 36c6879a-4526-4abb-8e9f-4ebc04002619.redfastlabs.com
 0.0.0.0 8425100.fls.doubleclick.net
 0.0.0.0 976-rka-196.mktoresp.com
+0.0.0.0 grotoocmeegnich.com
 0.0.0.0 s-img.idealmedia.io
 0.0.0.0 bdapi-id.ads.heytapmobile.com
 0.0.0.0 metrics-drcn.dt.dbankcloud.cn
@@ -12497,6 +12507,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 blockadsnot.com
 0.0.0.0 app.truconversion.com
 0.0.0.0 hvkwlft.pa-cd.com
+0.0.0.0 nidfkosuauefuy.com
 0.0.0.0 omni.dsw.com
 0.0.0.0 schibsted.io
 0.0.0.0 bajavdafwafp.com
@@ -12626,6 +12637,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 click-v4.preclksize.com
 0.0.0.0 de0mpg-cdn-settings.appsflyersdk.com
 0.0.0.0 honorableland.com
+0.0.0.0 on1nzbp3.com
 0.0.0.0 opehs.tanx.com
 0.0.0.0 pac.the-sun.com
 0.0.0.0 srv.tonemedia.com
@@ -12667,6 +12679,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mobile-crash.newrelic.com
 0.0.0.0 playable.directservices.it
 0.0.0.0 s839961370.t.eloqua.com
+0.0.0.0 abnzjfhnzauto.world
 0.0.0.0 beeswax-ipv6.telemetry.tataritv.com
 0.0.0.0 sponsor-logos.s3.amazonaws.com
 0.0.0.0 684dd326.akstat.io
@@ -12784,6 +12797,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fractionfridgejudiciary.com
 0.0.0.0 684dd32b.akstat.io
 0.0.0.0 non-tracking.campaigns.dsp.youappi.com
+0.0.0.0 tgingleagaineda.org
 0.0.0.0 tracking.friends2follow.com
 0.0.0.0 yvdxhbuupndqo.love
 0.0.0.0 8408493.fls.doubleclick.net
@@ -13550,6 +13564,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 adtpix.com
 0.0.0.0 ssa.hgtv.com
 0.0.0.0 autodesk.tt.omtrdc.net
+0.0.0.0 msjukinogbtji.fun
 0.0.0.0 track.webgains.com
 0.0.0.0 collector.p.analitik.bik.gov.tr
 0.0.0.0 deepsathegoh.com
@@ -14045,6 +14060,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 prebids2s.cootlogix.com
 0.0.0.0 15089575.fls.doubleclick.net
 0.0.0.0 byv8a7-inapps.appsflyersdk.com
+0.0.0.0 bony-lip.pro
 0.0.0.0 a.idio.co
 0.0.0.0 prod.webpu.sh
 0.0.0.0 www.googletraveladservices.com
@@ -14066,6 +14082,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 restricted.sdk.kochava.kvaedit.site
 0.0.0.0 sdk-info.gimbal.com
 0.0.0.0 securetags.esri.com
+0.0.0.0 www.bony-lip.pro
 0.0.0.0 commerceops.tryzens-analytics.com
 0.0.0.0 dashboard.wheelio-app.com
 0.0.0.0 am.adlooxtracking.com
@@ -14958,6 +14975,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 a2842.casalemedia.com
 0.0.0.0 clickguardian.app
 0.0.0.0 profusesupport.com
+0.0.0.0 reloushirsy.net
 0.0.0.0 smartico.one
 0.0.0.0 tkairfrance.wizaly.com
 0.0.0.0 v2.clickguardian.app
@@ -15149,6 +15167,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ssukrr-cdn-settings.appsflyersdk.com
 0.0.0.0 www.media.net
 0.0.0.0 aiq-in.delish.com
+0.0.0.0 phoapheehickot.com
 0.0.0.0 stat.gspaceteam.com
 0.0.0.0 us.exponea.com
 0.0.0.0 viiyutty.com
@@ -15182,6 +15201,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 analytics.gismart.xyz
 0.0.0.0 asos.com.ssl.d3.sc.omtrdc.net
 0.0.0.0 cookiematch-us-east-1.prod.justpremium.com
+0.0.0.0 estoujivogie.com
 0.0.0.0 dxzvw.com
 0.0.0.0 s.dxzvw.com
 0.0.0.0 valuecommerce.com
@@ -17541,6 +17561,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 admitad.com
 0.0.0.0 cname.getui.com
 0.0.0.0 fallaciousfifth.com
+0.0.0.0 pumsiphozeewi.com
 0.0.0.0 quizlet-aps-tagan.adlightning.com
 0.0.0.0 engpolitei.top
 0.0.0.0 eu.othis.co
@@ -20100,6 +20121,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 exchangeml.cootlogix.com
 0.0.0.0 podiumaudio.deliveryengine.adswizz.com
 0.0.0.0 swebstats.americanbar.org
+0.0.0.0 track.senderbulk.com
 0.0.0.0 a3421.casalemedia.com
 0.0.0.0 efollett.7eer.net
 0.0.0.0 gdetr.hit.gemius.pl
@@ -21317,6 +21339,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ap-southeast-1-x.adroll.com
 0.0.0.0 api.appdynamics.com
 0.0.0.0 bluadz.com
+0.0.0.0 jyyxqwyv.com
 0.0.0.0 pafutos.com
 0.0.0.0 pb-ing-bellmedia.ccgateway.net
 0.0.0.0 s.unoadsrv.com
@@ -22548,6 +22571,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 a4028.casalemedia.com
 0.0.0.0 exhibitsneeze.com
 0.0.0.0 k8s1-va-ext.lb.indexww.com
+0.0.0.0 mdp-appconf-kh.heytapdl.com
 0.0.0.0 mmusbg-launches.appsflyersdk.com
 0.0.0.0 non.li
 0.0.0.0 rtb-aod.jampp.com
@@ -23834,6 +23858,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 c-oa.imedia.cz
 0.0.0.0 cuse.stape.io
 0.0.0.0 dfanalytics.dealerfire.com
+0.0.0.0 ghtanothingfrui.org
 0.0.0.0 metrics-prod.suno.com
 0.0.0.0 serpens.iad-01.braze.com
 0.0.0.0 sm001.sub2tech.com
@@ -26345,6 +26370,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 idstatus.sky.com
 0.0.0.0 massets.bonzai.co
 0.0.0.0 metrics.nfm.com
+0.0.0.0 nwrtulvioxkwo.com
 0.0.0.0 oej9kw-inapps.appsflyersdk.com
 0.0.0.0 s3.mores.toponad.com
 0.0.0.0 servr.adservrs.com
@@ -27761,6 +27787,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 8kw5yo-inapps.appsflyersdk.com
 0.0.0.0 a2055.casalemedia.com
 0.0.0.0 analytics.tr.adjust.com
+0.0.0.0 btolvjhgpu.xyz
 0.0.0.0 c.darkreading.com
 0.0.0.0 cuplikenominee.com
 0.0.0.0 f53fad13b6500309ccf151c5ef3b57b84a54d00a.cws.conviva.com
@@ -30651,6 +30678,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 analytics.troywell.org
 0.0.0.0 api.specialdeals.g5e.com
 0.0.0.0 broworkers5s.com
+0.0.0.0 business.samsungusa.com
 0.0.0.0 compasscdn.adop.cc
 0.0.0.0 condles-temark.com
 0.0.0.0 gamebox.sec.miui.com
@@ -32684,6 +32712,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gbc2.fr3.eu.criteo.com
 0.0.0.0 gotcha-server.evo.run
 0.0.0.0 i.btg360.com.br
+0.0.0.0 igroogipaw.com
 0.0.0.0 johnhancockfinancialservices.demdex.net
 0.0.0.0 jqscr.com
 0.0.0.0 lat2491.d41.co
@@ -32755,7 +32784,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 saas.hpplay.cn
 0.0.0.0 sdk-conf.getui.com
 0.0.0.0 seg.m32.media
-0.0.0.0 shengfleming.com
 0.0.0.0 static.mepuzz.com
 0.0.0.0 stats-iobit-com.us-east-1.elasticbeanstalk.com
 0.0.0.0 supportstudent.link
@@ -32790,7 +32818,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 client-context.us.hubvisor.io
 0.0.0.0 crab.baidu.com
 0.0.0.0 dcc2.shuzilm.cn
-0.0.0.0 ek.shengfleming.com
 0.0.0.0 hmmyxk-cdn-settings.appsflyersdk.com
 0.0.0.0 inpx.stats.rip
 0.0.0.0 ioms.bfmio.com
@@ -34176,7 +34203,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 vao.cdn.trm.digital
 0.0.0.0 venture-365-inspired.com
 0.0.0.0 vmat.gtimg.com
-0.0.0.0 web.jsonpost.xyz
 0.0.0.0 webtags.logitechg.com
 0.0.0.0 www.brutuilionust.com
 0.0.0.0 www.soulofevil.com
@@ -34447,7 +34473,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.conduit.com
 0.0.0.0 www.rapmusic.at
 0.0.0.0 www.tbyt.club
-0.0.0.0 www.web.jsonpost.xyz
 0.0.0.0 ygopvz.windsorstore.com
 0.0.0.0 yxa8cq-adrevenue.appsflyersdk.com
 0.0.0.0 10004086.fls.doubleclick.net
@@ -34574,6 +34599,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 13476772.fls.doubleclick.net
 0.0.0.0 13717202.fls.doubleclick.net
 0.0.0.0 381729.tctm.co
+0.0.0.0 4.nwrtulvioxkwo.com
 0.0.0.0 8717580.fls.doubleclick.net
 0.0.0.0 9114385.fls.doubleclick.net
 0.0.0.0 a2254.casalemedia.com
@@ -38055,10 +38081,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 collector-22315.us.tvsquared.com
 0.0.0.0 creativeperceptive.com
 0.0.0.0 dr.cs3.duba.net
+0.0.0.0 dragate-cn.dc.heytapmobi.com
 0.0.0.0 e-10256-us-east-1.adzerk.net
 0.0.0.0 eks-prod-1f.vungle.com
 0.0.0.0 gtc.getui.net
 0.0.0.0 hwsj-singapore.ap-southeast-1.log.aliyuncs.com
+0.0.0.0 images.business.samsungusa.com
 0.0.0.0 janama-inapps.appsflyersdk.com
 0.0.0.0 kiccn0-cdn-settings.appsflyersdk.com
 0.0.0.0 kourier-tpat.eks-prod-1f.vungle.com
@@ -38997,7 +39025,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 logws1357.ati-host.net
 0.0.0.0 matomo.navigatingcare.com
 0.0.0.0 om-ssl.consorsbank.de
-0.0.0.0 ovologysnoops.com
 0.0.0.0 plo.farawayinstallation.com
 0.0.0.0 pn-us-east-1.ad.smaato.net
 0.0.0.0 pxud8t-cdn-settings.appsflyersdk.com
@@ -39669,6 +39696,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 a3232.casalemedia.com
 0.0.0.0 a5382.casalemedia.com
 0.0.0.0 a5445.casalemedia.com
+0.0.0.0 abtest.mistat.intl.xiaomi.com
 0.0.0.0 ads.bridgebase.com
 0.0.0.0 adsapi.togothermany.com
 0.0.0.0 adtima-common.zascdn.me
@@ -43704,6 +43732,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 wnaqis-launches.appsflyersdk.com
 0.0.0.0 wrating.com
 0.0.0.0 wrlasi-skadsdkless.appsflyersdk.com
+0.0.0.0 www.nwrtulvioxkwo.com
 0.0.0.0 www.syokmelaram.com
 0.0.0.0 xaprio.rtb-xs.ak-is2.net
 0.0.0.0 ygto.com
@@ -45309,6 +45338,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ogw1xl-gcdsdk.appsflyersdk.com
 0.0.0.0 olmbsv-inapps.appsflyersdk.com
 0.0.0.0 p04b.hs.eloqua.com
+0.0.0.0 pangake.club
 0.0.0.0 proxy.trysavvy.com
 0.0.0.0 rameshdeisin.com
 0.0.0.0 rrpkad-launches.appsflyersdk.com
@@ -45984,6 +46014,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 aolkel-conversions.appsflyersdk.com
 0.0.0.0 apisonar.go.usonar.jp
 0.0.0.0 app-euc.freshmarketer.com
+0.0.0.0 app.business.samsungusa.com
 0.0.0.0 attalidhatters.shop
 0.0.0.0 bankrate.looker.com
 0.0.0.0 bdtacxdbb.cc.rs6.net
@@ -48036,7 +48067,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 hn.hoopersnonpoet.com
 0.0.0.0 hncfll-launches.appsflyersdk.com
 0.0.0.0 img.lz-pub-ads.com
-0.0.0.0 info.standardtextile.com
 0.0.0.0 jeuv4k-adrevenue.appsflyersdk.com
 0.0.0.0 kv.outheelrelict.com
 0.0.0.0 kwbibk-launches.appsflyersdk.com
@@ -49955,7 +49985,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 axp.centralillinoisproud.com
 0.0.0.0 azhvuz-onelink.appsflyersdk.com
 0.0.0.0 b1-chidc2-win.zemanta.com
-0.0.0.0 bitmi.vip
 0.0.0.0 bqw9qv-inapps.appsflyersdk.com
 0.0.0.0 br.brazilprocyon.com
 0.0.0.0 bustlingbook.com
@@ -50347,7 +50376,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 harrods.everestengagement.com
 0.0.0.0 hellobacsivn.api.useinsider.com
 0.0.0.0 i.dnsdelegation.io
-0.0.0.0 i.yapily.com
 0.0.0.0 ijj4mz-launches.appsflyersdk.com
 0.0.0.0 impressions.crossinstall.io
 0.0.0.0 ioaoyyl3.alphonso.tv
@@ -55281,6 +55309,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mfgt3y-cdn-settings.appsflyersdk.com
 0.0.0.0 mm-api.agency
 0.0.0.0 mopo.met.vgwort.de
+0.0.0.0 mosterjiechub.shop
 0.0.0.0 mst.rnd.de
 0.0.0.0 myhome.usg.com
 0.0.0.0 ns.atwindpeached.top
@@ -55426,7 +55455,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 b-eu8-turn.doppiocdn.com
 0.0.0.0 b-us6-turn.doppiocdn.com
 0.0.0.0 bannersvideo.com
-0.0.0.0 beegeeshimoate.net
 0.0.0.0 bf68337opc.bf.dynatrace.com
 0.0.0.0 bid.socdm.com
 0.0.0.0 brandeisu.blueconic.net
@@ -55505,6 +55533,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 oo6poe-skadsdkless.appsflyersdk.com
 0.0.0.0 pia.appsflyersdk.com
 0.0.0.0 posthog.timecamp.io
+0.0.0.0 psebineno.pro
 0.0.0.0 qcx.quantserve.com
 0.0.0.0 qtnccj-cdn-settings.appsflyersdk.com
 0.0.0.0 qvjncr-launches.appsflyersdk.com
@@ -55675,6 +55704,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 creative.xlviiirdr.com
 0.0.0.0 cwtvot-launches.appsflyersdk.com
 0.0.0.0 data-in.ads.oppomobile.com
+0.0.0.0 ddlfudtwpj.com
 0.0.0.0 de-node-48.silvermob.com
 0.0.0.0 densubmarinesubdued.com
 0.0.0.0 doanegrantthornton.ca
@@ -55911,7 +55941,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 be.burleskspoiler.com
 0.0.0.0 bets4you.xyz
 0.0.0.0 bf38854fvc.bf.dynatrace.com
-0.0.0.0 blsznpcpmsjmeq.com
 0.0.0.0 boe06c-cdn-settings.appsflyersdk.com
 0.0.0.0 brooklynnets.demdex.net
 0.0.0.0 burleskspoiler.com
@@ -55998,6 +56027,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mktg.aa.f5.com
 0.0.0.0 mmmu.mnuu.nu
 0.0.0.0 monitus.net
+0.0.0.0 mosterjiechuc.shop
 0.0.0.0 ncus.infisecure.com
 0.0.0.0 nfcch4-launches.appsflyersdk.com
 0.0.0.0 ocifeedbackorigin.apdc2n.adpushup.com
@@ -56536,7 +56566,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 mallgroup-api.exponea.com
 0.0.0.0 masdk.3g.qq.com
 0.0.0.0 matomo.oepm.es
-0.0.0.0 metrics.10-ids.giftango.com
 0.0.0.0 metrics.eql.com
 0.0.0.0 n80fob-inapps.appsflyersdk.com
 0.0.0.0 nn8q87-launches.appsflyersdk.com
@@ -56813,7 +56842,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 id.google.com.pe
 0.0.0.0 identity.eu1.mparticle.com
 0.0.0.0 imp.ad.xelements.cn
-0.0.0.0 incap-dns-server.metrics.10-ids.giftango.com
 0.0.0.0 iqzjhctm4.alphonso.tv
 0.0.0.0 jbettk-launches.appsflyersdk.com
 0.0.0.0 kameleoon.net

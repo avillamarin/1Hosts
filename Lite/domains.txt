@@ -1,8 +1,8 @@
 # Title: 1Hosts (Lite)
-# Last modified: 2025-04-02T16:29:02.959Z
+# Last modified: 2025-04-03T04:04:18.937Z
 # ..............
 #  |URL: https://github.com/badmojr/1Hosts
-#  |Count: 85,728 rules!
+#  |Count: 85,756 rules!
 #  |Size: 1.89 MB
 #  |
 #  |Credits & ©: https://o0.pages.dev/-data/lists/assets.txt
@@ -1345,6 +1345,7 @@ sync.ad-stir.com
 rtb.primis.tech
 s-cs.rmp.rakuten.com
 ad.sxp.smartclip.net
+mdp-appconf-sg.heytapdl.com
 res1.applovin.com
 admedo.com
 sync.a-mo.net
@@ -3058,6 +3059,7 @@ orpixel.adsafeprotected.com
 amnew.net
 cdn.amnew.net
 edgetrksvc.ebay.com
+mdp-appconf-us.heytapdl.com
 app.getbeamer.com
 su.semasio.net
 t.company-target.com
@@ -4373,6 +4375,7 @@ storage.multstorage.com
 a.adtng.com
 a.mts.ru
 px-intl.ucweb.com
+mdp-appconf-eu.heytapdl.com
 s.pubmine.com
 cdn.petametrics.com
 zndiiommxyi80h9gu-workdayinc.siteintercept.qualtrics.com
@@ -5784,6 +5787,7 @@ global.appnext.com
 onsite.optimonk.com
 publicgood.com
 ive8im-cdn-settings.appsflyersdk.com
+mdp-appconf-id.heytapdl.com
 cdn.insurads.com
 t.castle.io
 fls-eu.amazon.de
@@ -6991,6 +6995,7 @@ px.effirst.com
 ld.lngtd.com
 gcp.smaato.net
 vlb.gcp.smaato.net
+dragate-sg.dc.heytapmobi.com
 tx-kmpaudio.pull.yximgs.com
 stats-dev.brid.tv
 cdn.convertbox.com
@@ -7665,6 +7670,7 @@ log-activity.templates.inmobi.com
 templates.inmobi.com
 ifota.coloros.com
 cw-static.aditude.io
+pixel.wetracked.io
 log-api.pangolin-sdk-toutiao-b.com
 gacraft.jp
 us1-spiky.clevertap-prod.com
@@ -8657,6 +8663,7 @@ znbbf46ejn8vkhysu-expediaxm.siteintercept.qualtrics.com
 y.mdhv.io
 log.adtimaserver.vn
 analytics.kidoz.net
+chivpelorus.top
 ewr-660.ewr-rtb1.rfihub.com
 push-sdk.com
 a2395.casalemedia.com
@@ -9735,6 +9742,7 @@ js.rmtag.com
 synchrobox.ec2eu.adswizz.com
 px.vliplatform.com
 vin.cookies.geo.nextmillmedia.com
+mdp-appconf-mm.heytapdl.com
 metrics1.citibankonline.com
 p33254.cedexis-test.com
 mooncrustpizza.com
@@ -11965,6 +11973,7 @@ cloud.umami.is
 a5688.casalemedia.com
 a5710.casalemedia.com
 ssc.cvent.com
+wikewmvxhjr.com
 a5584.casalemedia.com
 a5603.casalemedia.com
 xml.zaimads.com
@@ -12051,6 +12060,7 @@ aff.bstatic.com
 36c6879a-4526-4abb-8e9f-4ebc04002619.redfastlabs.com
 8425100.fls.doubleclick.net
 976-rka-196.mktoresp.com
+grotoocmeegnich.com
 s-img.idealmedia.io
 bdapi-id.ads.heytapmobile.com
 metrics-drcn.dt.dbankcloud.cn
@@ -12483,6 +12493,7 @@ widget.justwatch.com
 blockadsnot.com
 app.truconversion.com
 hvkwlft.pa-cd.com
+nidfkosuauefuy.com
 omni.dsw.com
 schibsted.io
 bajavdafwafp.com
@@ -12612,6 +12623,7 @@ ad-tech.ru
 click-v4.preclksize.com
 de0mpg-cdn-settings.appsflyersdk.com
 honorableland.com
+on1nzbp3.com
 opehs.tanx.com
 pac.the-sun.com
 srv.tonemedia.com
@@ -12653,6 +12665,7 @@ da.rabobank.nl
 mobile-crash.newrelic.com
 playable.directservices.it
 s839961370.t.eloqua.com
+abnzjfhnzauto.world
 beeswax-ipv6.telemetry.tataritv.com
 sponsor-logos.s3.amazonaws.com
 684dd326.akstat.io
@@ -12770,6 +12783,7 @@ b.t.tailtarget.com
 fractionfridgejudiciary.com
 684dd32b.akstat.io
 non-tracking.campaigns.dsp.youappi.com
+tgingleagaineda.org
 tracking.friends2follow.com
 yvdxhbuupndqo.love
 8408493.fls.doubleclick.net
@@ -13536,6 +13550,7 @@ zn42v6draxyafsjmv-homedepot.siteintercept.qualtrics.com
 adtpix.com
 ssa.hgtv.com
 autodesk.tt.omtrdc.net
+msjukinogbtji.fun
 track.webgains.com
 collector.p.analitik.bik.gov.tr
 deepsathegoh.com
@@ -14031,6 +14046,7 @@ icn-v4.pops.fastly-insights.com
 prebids2s.cootlogix.com
 15089575.fls.doubleclick.net
 byv8a7-inapps.appsflyersdk.com
+bony-lip.pro
 a.idio.co
 prod.webpu.sh
 www.googletraveladservices.com
@@ -14052,6 +14068,7 @@ prebid.scupio.com
 restricted.sdk.kochava.kvaedit.site
 sdk-info.gimbal.com
 securetags.esri.com
+www.bony-lip.pro
 commerceops.tryzens-analytics.com
 dashboard.wheelio-app.com
 am.adlooxtracking.com
@@ -14944,6 +14961,7 @@ a2831.casalemedia.com
 a2842.casalemedia.com
 clickguardian.app
 profusesupport.com
+reloushirsy.net
 smartico.one
 tkairfrance.wizaly.com
 v2.clickguardian.app
@@ -15135,6 +15153,7 @@ code.giraff.io
 ssukrr-cdn-settings.appsflyersdk.com
 www.media.net
 aiq-in.delish.com
+phoapheehickot.com
 stat.gspaceteam.com
 us.exponea.com
 viiyutty.com
@@ -15168,6 +15187,7 @@ zn5bgphfvhkgrzd9z-constantcontact.siteintercept.qualtrics.com
 analytics.gismart.xyz
 asos.com.ssl.d3.sc.omtrdc.net
 cookiematch-us-east-1.prod.justpremium.com
+estoujivogie.com
 dxzvw.com
 s.dxzvw.com
 valuecommerce.com
@@ -17527,6 +17547,7 @@ a4174.casalemedia.com
 admitad.com
 cname.getui.com
 fallaciousfifth.com
+pumsiphozeewi.com
 quizlet-aps-tagan.adlightning.com
 engpolitei.top
 eu.othis.co
@@ -20086,6 +20107,7 @@ dd.g2.com
 exchangeml.cootlogix.com
 podiumaudio.deliveryengine.adswizz.com
 swebstats.americanbar.org
+track.senderbulk.com
 a3421.casalemedia.com
 efollett.7eer.net
 gdetr.hit.gemius.pl
@@ -21303,6 +21325,7 @@ a3810.casalemedia.com
 ap-southeast-1-x.adroll.com
 api.appdynamics.com
 bluadz.com
+jyyxqwyv.com
 pafutos.com
 pb-ing-bellmedia.ccgateway.net
 s.unoadsrv.com
@@ -22534,6 +22557,7 @@ a3927.casalemedia.com
 a4028.casalemedia.com
 exhibitsneeze.com
 k8s1-va-ext.lb.indexww.com
+mdp-appconf-kh.heytapdl.com
 mmusbg-launches.appsflyersdk.com
 non.li
 rtb-aod.jampp.com
@@ -23820,6 +23844,7 @@ batch.kueezrtb.com
 c-oa.imedia.cz
 cuse.stape.io
 dfanalytics.dealerfire.com
+ghtanothingfrui.org
 metrics-prod.suno.com
 serpens.iad-01.braze.com
 sm001.sub2tech.com
@@ -26331,6 +26356,7 @@ firsthive.com
 idstatus.sky.com
 massets.bonzai.co
 metrics.nfm.com
+nwrtulvioxkwo.com
 oej9kw-inapps.appsflyersdk.com
 s3.mores.toponad.com
 servr.adservrs.com
@@ -27747,6 +27773,7 @@ zedo.com
 8kw5yo-inapps.appsflyersdk.com
 a2055.casalemedia.com
 analytics.tr.adjust.com
+btolvjhgpu.xyz
 c.darkreading.com
 cuplikenominee.com
 f53fad13b6500309ccf151c5ef3b57b84a54d00a.cws.conviva.com
@@ -30637,6 +30664,7 @@ accountkit.haloapps.com
 analytics.troywell.org
 api.specialdeals.g5e.com
 broworkers5s.com
+business.samsungusa.com
 compasscdn.adop.cc
 condles-temark.com
 gamebox.sec.miui.com
@@ -32670,6 +32698,7 @@ gae.karte.io
 gbc2.fr3.eu.criteo.com
 gotcha-server.evo.run
 i.btg360.com.br
+igroogipaw.com
 johnhancockfinancialservices.demdex.net
 jqscr.com
 lat2491.d41.co
@@ -32741,7 +32770,6 @@ s4.killtarget.biz
 saas.hpplay.cn
 sdk-conf.getui.com
 seg.m32.media
-shengfleming.com
 static.mepuzz.com
 stats-iobit-com.us-east-1.elasticbeanstalk.com
 supportstudent.link
@@ -32776,7 +32804,6 @@ cdn3.aniview.com
 client-context.us.hubvisor.io
 crab.baidu.com
 dcc2.shuzilm.cn
-ek.shengfleming.com
 hmmyxk-cdn-settings.appsflyersdk.com
 inpx.stats.rip
 ioms.bfmio.com
@@ -34162,7 +34189,6 @@ uk-bet.com
 vao.cdn.trm.digital
 venture-365-inspired.com
 vmat.gtimg.com
-web.jsonpost.xyz
 webtags.logitechg.com
 www.brutuilionust.com
 www.soulofevil.com
@@ -34433,7 +34459,6 @@ webtracking.chamberlain.edu
 www.conduit.com
 www.rapmusic.at
 www.tbyt.club
-www.web.jsonpost.xyz
 ygopvz.windsorstore.com
 yxa8cq-adrevenue.appsflyersdk.com
 10004086.fls.doubleclick.net
@@ -34560,6 +34585,7 @@ znw3ic-launches.appsflyersdk.com
 13476772.fls.doubleclick.net
 13717202.fls.doubleclick.net
 381729.tctm.co
+4.nwrtulvioxkwo.com
 8717580.fls.doubleclick.net
 9114385.fls.doubleclick.net
 a2254.casalemedia.com
@@ -38041,10 +38067,12 @@ cdn-eu.usefathom.com
 collector-22315.us.tvsquared.com
 creativeperceptive.com
 dr.cs3.duba.net
+dragate-cn.dc.heytapmobi.com
 e-10256-us-east-1.adzerk.net
 eks-prod-1f.vungle.com
 gtc.getui.net
 hwsj-singapore.ap-southeast-1.log.aliyuncs.com
+images.business.samsungusa.com
 janama-inapps.appsflyersdk.com
 kiccn0-cdn-settings.appsflyersdk.com
 kourier-tpat.eks-prod-1f.vungle.com
@@ -38983,7 +39011,6 @@ js.leadin.com
 logws1357.ati-host.net
 matomo.navigatingcare.com
 om-ssl.consorsbank.de
-ovologysnoops.com
 plo.farawayinstallation.com
 pn-us-east-1.ad.smaato.net
 pxud8t-cdn-settings.appsflyersdk.com
@@ -39655,6 +39682,7 @@ a3167.casalemedia.com
 a3232.casalemedia.com
 a5382.casalemedia.com
 a5445.casalemedia.com
+abtest.mistat.intl.xiaomi.com
 ads.bridgebase.com
 adsapi.togothermany.com
 adtima-common.zascdn.me
@@ -43690,6 +43718,7 @@ wikihow-com.videoplayerhub.com
 wnaqis-launches.appsflyersdk.com
 wrating.com
 wrlasi-skadsdkless.appsflyersdk.com
+www.nwrtulvioxkwo.com
 www.syokmelaram.com
 xaprio.rtb-xs.ak-is2.net
 ygto.com
@@ -45295,6 +45324,7 @@ ng6rthbbb.cc.rs6.net
 ogw1xl-gcdsdk.appsflyersdk.com
 olmbsv-inapps.appsflyersdk.com
 p04b.hs.eloqua.com
+pangake.club
 proxy.trysavvy.com
 rameshdeisin.com
 rrpkad-launches.appsflyersdk.com
@@ -45970,6 +46000,7 @@ analytics.libertycr.com
 aolkel-conversions.appsflyersdk.com
 apisonar.go.usonar.jp
 app-euc.freshmarketer.com
+app.business.samsungusa.com
 attalidhatters.shop
 bankrate.looker.com
 bdtacxdbb.cc.rs6.net
@@ -48022,7 +48053,6 @@ hitrackthat.com
 hn.hoopersnonpoet.com
 hncfll-launches.appsflyersdk.com
 img.lz-pub-ads.com
-info.standardtextile.com
 jeuv4k-adrevenue.appsflyersdk.com
 kv.outheelrelict.com
 kwbibk-launches.appsflyersdk.com
@@ -49941,7 +49971,6 @@ apps.pubmatic.com
 axp.centralillinoisproud.com
 azhvuz-onelink.appsflyersdk.com
 b1-chidc2-win.zemanta.com
-bitmi.vip
 bqw9qv-inapps.appsflyersdk.com
 br.brazilprocyon.com
 bustlingbook.com
@@ -50333,7 +50362,6 @@ giefsk-cdn-settings.appsflyersdk.com
 harrods.everestengagement.com
 hellobacsivn.api.useinsider.com
 i.dnsdelegation.io
-i.yapily.com
 ijj4mz-launches.appsflyersdk.com
 impressions.crossinstall.io
 ioaoyyl3.alphonso.tv
@@ -55267,6 +55295,7 @@ matomo.eshop-rychle.cz
 mfgt3y-cdn-settings.appsflyersdk.com
 mm-api.agency
 mopo.met.vgwort.de
+mosterjiechub.shop
 mst.rnd.de
 myhome.usg.com
 ns.atwindpeached.top
@@ -55412,7 +55441,6 @@ ayp9h64ab.cc.rs6.net
 b-eu8-turn.doppiocdn.com
 b-us6-turn.doppiocdn.com
 bannersvideo.com
-beegeeshimoate.net
 bf68337opc.bf.dynatrace.com
 bid.socdm.com
 brandeisu.blueconic.net
@@ -55491,6 +55519,7 @@ nmjvt6.alphonso.tv
 oo6poe-skadsdkless.appsflyersdk.com
 pia.appsflyersdk.com
 posthog.timecamp.io
+psebineno.pro
 qcx.quantserve.com
 qtnccj-cdn-settings.appsflyersdk.com
 qvjncr-launches.appsflyersdk.com
@@ -55661,6 +55690,7 @@ connect.becker.com
 creative.xlviiirdr.com
 cwtvot-launches.appsflyersdk.com
 data-in.ads.oppomobile.com
+ddlfudtwpj.com
 de-node-48.silvermob.com
 densubmarinesubdued.com
 doanegrantthornton.ca
@@ -55897,7 +55927,6 @@ ba1swp-cdn-settings.appsflyersdk.com
 be.burleskspoiler.com
 bets4you.xyz
 bf38854fvc.bf.dynatrace.com
-blsznpcpmsjmeq.com
 boe06c-cdn-settings.appsflyersdk.com
 brooklynnets.demdex.net
 burleskspoiler.com
@@ -55984,6 +56013,7 @@ mgqjzb-launches.appsflyersdk.com
 mktg.aa.f5.com
 mmmu.mnuu.nu
 monitus.net
+mosterjiechuc.shop
 ncus.infisecure.com
 nfcch4-launches.appsflyersdk.com
 ocifeedbackorigin.apdc2n.adpushup.com
@@ -56522,7 +56552,6 @@ loopme-d.openx.net
 mallgroup-api.exponea.com
 masdk.3g.qq.com
 matomo.oepm.es
-metrics.10-ids.giftango.com
 metrics.eql.com
 n80fob-inapps.appsflyersdk.com
 nn8q87-launches.appsflyersdk.com
@@ -56799,7 +56828,6 @@ ickx5c-inapps.appsflyersdk.com
 id.google.com.pe
 identity.eu1.mparticle.com
 imp.ad.xelements.cn
-incap-dns-server.metrics.10-ids.giftango.com
 iqzjhctm4.alphonso.tv
 jbettk-launches.appsflyersdk.com
 kameleoon.net
