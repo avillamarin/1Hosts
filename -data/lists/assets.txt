@@ -188,7 +188,7 @@ https://blokada.org/blocklists/exodusprivacy/standard/hosts.txt
 https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt
 https://github.com/muxcc/AdsBlockLists/raw/master/aumm.hosts
 https://github.com/BlackJack8/iOSAdblockList/raw/master/Regular%20Hosts.txt
-https://big.oisd.nl/domainswild2
+https://big.oisd.nl
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Ads
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tracking
 https://github.com/hagezi/dns-blocklists/raw/main/domains/pro.txt
