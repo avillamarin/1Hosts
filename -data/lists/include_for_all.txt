@@ -1,4 +1,7 @@
 
+# https://github.com/badmojr/1Hosts/issues/1951
+ecs.carousell.com
+
 # https://github.com/badmojr/1Hosts/issues/1767
 adapty.io
 api.adapty.io
