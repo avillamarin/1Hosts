@@ -251,6 +251,7 @@ https://github.com/Ultimate-Hosts-Blacklist/blacklist/raw/master/clean.list
 https://codeberg.org/chapeubranco/filtros/raw/branch/master/filtros/filtros-trackers.txt
 https://github.com/NoGitHubForYou/yafp/raw/main/domains_adshield
 https://github.com/NoGitHubForYou/yafp/raw/main/subdomains_adshield
+https://github.com/MajkiIT/polish-ads-filter/raw/master/polish-pihole-filters/hostfile.txt
 https://raw.githubusercontent.com/mmotti/pihole-regex/master/regex.list
 https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/regex.list
 https://github.com/c3ri/adlists/raw/main/regex
