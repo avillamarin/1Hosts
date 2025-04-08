@@ -2,7 +2,7 @@ name: ci
 'on':
   workflow_dispatch:
   schedule:
-    - cron: 20 7 * * *
+    - cron: 15 7 * * *
 
 jobs:
   init:
