@@ -1,8 +1,8 @@
 # Title: 1Hosts (Lite)
-# Last modified: 2025-04-10T18:47:04.988Z
+# Last modified: 2025-04-10T23:29:09.493Z
 # ..............
 #  |URL: https://github.com/badmojr/1Hosts
-#  |Count: 103,894 rules!
+#  |Count: 103,986 rules!
 #  |Size: 2.21 MB
 #  |
 #  |Credits & ©: https://o0.pages.dev/-data/lists/assets.txt
@@ -4779,6 +4779,7 @@ tr-eu.adsmoloco.com
 update.esm1.net
 s.update.esm1.net
 adjust.world
+tiktokpangle.us
 metricswpsh.com
 get.civicscience.com
 events.mediarithmics.com
@@ -4799,6 +4800,7 @@ api.bugfender.com
 acscdn.com
 js.go2sdk.com
 ybar-mcdn-report.wc.yahoodns.net
+api16-access-ttp.tiktokpangle.us
 rtbtrack-america.rtblab.net
 fev.fyber.com
 268a2000018370f5f35b29272d1942aa2ff7b6a9.ipv4.cws.conviva.com
@@ -11192,6 +11194,7 @@ performax.cz
 h-adashx.ut.alibaba.com
 pftrhopqulrkcif.com
 config2.cmpassport.com
+lf-static.tiktokpangle-cdn-us.com
 6019054.global.siteimproveanalytics.io
 a2746.casalemedia.com
 rp.hpplay.cn
@@ -26886,6 +26889,7 @@ a2630.casalemedia.com
 ads.scored.co
 advertiserpro.flexoffers.com
 analytics.getflits.com
+api16-access-ttp-b.tiktokpangle.us
 b1480423828.topqualitylink.com
 chet.rayjump.com
 cm-10-184.getui.com
@@ -37528,6 +37532,7 @@ analytic.kemsos.net
 analytics.ananas.rs
 annwwu.guitarcenter.com
 api-v3.madinad.com
+astronautlividlyreformer.com
 azantneutyy6l.us-east-1.prod.service.minerva.devices.a2z.com
 b-gy.getui.net
 bf75905mqw.bf.dynatrace.com
@@ -49006,6 +49011,7 @@ ke.minterhazes.com
 l.tcp.push.mob.com
 l5syu9-launches.appsflyersdk.com
 leostop.com
+linksoflondononsale.top
 lolsefti.com
 m.sp.uczzd.cn
 magicallyitalian.com
@@ -52218,7 +52224,6 @@ tags.finanzen100.de
 thalesaleniaspace.containers.piwik.pro
 tkacr725.alphonso.tv
 tkacr733.alphonso.tv
-tmprod10067889ext.b2clogin.us
 tr-st-sl.vivoglobal.com
 ttzf0c-dynamic-config-api.appsflyersdk.com
 tubi-tr.moloco.com
@@ -52876,6 +52881,7 @@ axp.ktsm.com
 azhvuz-dynamic-report-api.appsflyersdk.com
 b6.3gmimo.com
 backoffice.mobsuccess.com
+barometercorrodingunease.com
 bf29791fuq.bf.dynatrace.com
 bf37057bdz.bf.dynatrace.com
 bf44680uzd.bf.dynatrace.com
@@ -56683,7 +56689,6 @@ cdn.lemonpi.io
 cdn.oremark.com
 cdn.prezna.com
 cds.adapf.com
-chatlink.wchatlink.com
 click-ap.adikteev.com
 cnetcontentsolutions.com
 cnmoc7-impression.appsflyersdk.com
@@ -59882,6 +59887,8 @@ ableandworldwid.com
 ablebodiedsweatisolated.com
 ablecheap.com
 ablecolony.com
+ablehandbookrepugnant.com
+ablelaunchshorts.com
 abletopreseyna.com
 ablida-rotation.com
 ablink.mail.parkmobile.io
@@ -60063,6 +60070,7 @@ accountssticking.com
 accountswindy.com
 accreditedquite.com
 accreteprocess.click
+accuracymangosixtyfold.com
 accuracyswede.com
 accuradio.adswizz.com
 accuratewistful.com
@@ -60119,7 +60127,9 @@ acquaintanceunbearablecelebrated.com
 acquaintcollaboratefruitless.com
 acquaintedpostman.com
 acquaintplentifulemotions.com
+acquirecardedsullen.com
 acquiredcycle.com
+acquiredeceasedundress.com
 acquiretank.com
 acquitfamouscavity.com
 acquitjeans.com
@@ -60154,6 +60164,7 @@ actions-sg.taboola.com
 actirinius.com
 activate-game.com
 activation.easeus.com
+activatormanorplausible.com
 active.baofeng.com
 active.cache.el-mundo.net
 activeconversion.com
@@ -62954,6 +62965,7 @@ affectionatereply.pro
 affectionavenue.site
 affectsyntaxthousand.com
 affforce.com
+affidavitheadfirstonward.com
 affifix.offerstrack.net
 affilaxy.com
 affilbox.cz
@@ -63133,6 +63145,7 @@ afrikad.com
 afromessenger.com
 afront.io
 afterdownload.com
+aftermostagrounduneasily.com
 afternoongusdark.com
 afternoonpregnantgetting.com
 afternoonreeds.com
@@ -63271,6 +63284,7 @@ aicpeyeph.com
 aidouzoumpe.net
 aidsbecry.click
 aidsoamsaiphu.net
+aidsswaggertrimness.com
 aifuwgcygccfp.com
 aigeno.com
 aigent2.silveregg.net
@@ -63591,6 +63605,7 @@ allowsmelodramaticswindle.com
 allowssnagaffinity.com
 allowsstripesdejection.com
 alloybreathlesshomes.com
+alloystart.com
 allpornovids.com
 allskillon.com
 allspammers.com
@@ -63622,6 +63637,7 @@ almightysnail.com
 almondnetworks.com
 almondusual.com
 almonryminuter.com
+almostextrudingmanhood.com
 almostmakes.com
 almstda.tv
 alnathmeetly.com
@@ -63691,6 +63707,8 @@ altrooz.com
 altynamoan.com
 aluminiumfamily.top
 aluminiumreluctanterect.com
+aluminumoutageprovince.com
+alumniheadfirstshamrock.com
 alwayswheatconference.com
 alwtupwwafu.com
 alxbgo.com
@@ -63737,6 +63755,7 @@ ambientdsp.cachefly.net
 ambiguityhalfmoon.com
 ambiguityhelperapathy.com
 ambiguityornamenttell.com
+ambiguouscovertrustless.com
 ambiguousdinosaurs.com
 ambiliarcarwin.com
 ambitalfeds.top
@@ -63780,6 +63799,7 @@ amoberficin.top
 amobil.online
 amoddishor.com
 amongassessment.com
+amongnemesesquadrant.com
 amongremember.com
 amongstbestrew.top
 amoochaw.com
@@ -64117,11 +64137,13 @@ androidads4-5.adcolony.com
 androidads4-6.adcolony.com
 androidads4-7.adcolony.com
 androidads4-8.adcolony.com
+androidduvetscribble.com
 androidfilehost.cfd
 androidquery.appspot.com
 androzone.marfeel.com
 andyhoppe.com
 anekbook.ru
+anemiakoalamothproof.com
 anentsyshrug.com
 anet.tradedoubler.com
 aneuchoutfit.shop
@@ -64139,6 +64161,7 @@ angioiddiantre.top
 angledunion.top
 angletolerate.com
 angrilyanimatorcuddle.com
+angrilydiameterscarcity.com
 angrilyinclusionminister.com
 angrilyunbuttoncouch.com
 angryheadlong.com
@@ -64239,6 +64262,7 @@ antiqueskinnyminute.com
 antiquespecialtyimpure.com
 antiquityundeniable.com
 antiredcessant.com
+antirustexistingtaking.com
 antiunbearable.com
 antivirus.baidu.com
 antivirus.lv
@@ -64288,6 +64312,7 @@ anyonemost.com
 anyrelationsandin.com
 anysolely.com
 anythingloan.7eer.net
+anytimebananarecoil.com
 anywaypossible.com
 anywaysreives.com
 anz.demdex.net
@@ -64796,6 +64821,7 @@ appeasetruthinclude.com
 appendad.com
 appendixbureaucracycommand.com
 apperian2.evergage.com
+appetitecamisolereawake.com
 appetitethreatened.com
 appevents.impactradius.com
 appgift.sinaapp.com
@@ -64815,6 +64841,7 @@ appleglobal.102.112.2o7.net
 applesconvertedpansy.com
 appletdejectedsounds.com
 appletrelentlessfreeway.com
+appliancecolaprofessor.com
 applicantsmilesassembly.com
 applicanttowardsbureau.com
 applicationmoleculepersonal.com
@@ -64979,6 +65006,7 @@ archtics-shows.evyy.net
 arcobsarrod.com
 arcplan.evergage.com
 arcticclairvoyant.com
+ardentlydrivablepagan.com
 ardoqxdinqucirei.info
 ardourunderneath.com
 ardrcirhi.com
@@ -65212,6 +65240,8 @@ aspicsrubby.top
 aspignitean.com
 aspirationliable.com
 aspirationprogrammecontains.com
+aspiredemeaningmarvelous.com
+aspirincountryprofound.com
 aspiringtoy.com
 asplayer-ovp.piksel.com
 asq.d6shiiwz.pw
@@ -65316,6 +65346,7 @@ astoundweighadjoining.com
 astra9dlya10.com
 astrocash.org
 astrolabio.net
+astrologybacklightsinless.com
 astrologyflyabletruth.com
 astronomybreathlessmisunderstand.com
 astronomycrawlingcol.com
@@ -65422,6 +65453,7 @@ atsg.me
 atsnivychan.com
 atswabluom.com
 attacarbo.com
+attacheatableoverlabor.com
 attachedkneel.com
 attaintobiit.shop
 attemptingstray.com
@@ -65435,6 +65467,7 @@ attepigom.com
 attestcribaccording.com
 attesthelium.com
 attictop.com
+attirecideryeah.com
 attr-shift.dotabuff.com
 attractglamorous.com
 attractivecap.com
@@ -65594,6 +65627,7 @@ auxissouckie.net
 auxmoney-partnerprogramm.de
 av.ageverify.co
 avads.co.uk
+avalanchetremorunfilled.com
 avalara.evergage.com
 avalonalbum.com
 avatarthree.lol
@@ -65690,6 +65724,7 @@ awept.com
 awesome-blocker.com
 awesomeprizedrive.co
 awesomeredirector.com
+awesomeststuff.com
 awestatic.com
 awhauchoa.net
 awheecethe.net
@@ -65872,6 +65907,7 @@ ba.journaldesfemmes.com
 ba.kioskea.net
 ba0bf98c.xyz
 babascoinkle.shop
+babblegenericnastiness.com
 babblelessenairline.com
 babes-mansion.s3.amazonaws.com
 babesroulette.com
@@ -65888,6 +65924,8 @@ bachelorfondleenrapture.com
 bachelorfranz.com
 baciotti.com
 bacishushaby.com
+backachedimpleparalyses.com
+backachegrudgesiamese.com
 backbeatmedia.com
 backcountry.evyy.net
 backedliar.com
@@ -65900,6 +65938,7 @@ backlinks.com
 backlogdoorstepsinister.com
 backseatmarmaladeconsiderate.com
 backspacecomprisedgoliath.com
+backspinreentryupright.com
 backstory.ebay.com.hk
 backstory.ebay.com.my
 backstory.ebay.ie
@@ -65908,6 +65947,7 @@ backstory.ebay.ph
 backstory.ebay.pl
 backup.lumion3d.com
 backupcelebritygrave.com
+backwashcrowdstylized.com
 baconbedside.com
 bacr.com.pk
 bacskateszov.hu
@@ -65919,6 +65959,7 @@ badgegirdle.com
 badgeimpliedblind.com
 badgerjeff.com
 badjocks.com
+badlandlispyippee.com
 badoink.com
 badtopwitch.work
 badults.se
@@ -66163,8 +66204,10 @@ bannery.cz
 bannet.fryazino.net
 bannieres-a-gogo.com
 bannieres.wdmedia.net
+bannisterflaskputdown.com
 bansheecabful.shop
 banshop.gruntovik.ru
+banteroatresurface.com
 banterteeserving.com
 baobabsruesome.com
 bapi.userreport.com
@@ -66194,6 +66237,7 @@ barnaclewiped.com
 barnesandnoble.evergage.com
 baroconobby.top
 baronsurrenderletter.com
+barrackmuppetunhealthy.com
 barrackssponge.com
 barrenhatrack.com
 barricadecourse.com
@@ -66345,6 +66389,7 @@ beardinrather.com
 beardyapii.com
 bearerdarkfiscal.com
 bearinggall.com
+bearscutte.com
 beastlyrapillo.shop
 beastssmuggleimpatiently.com
 beaststokersleazy.com
@@ -66444,6 +66489,7 @@ believeisabella.com
 believemefly.com
 believersymphonyaunt.com
 believessway.com
+belikewe.com
 belkinau.evyy.net
 belkinde.evyy.net
 belkinuk.evyy.net
@@ -66525,6 +66571,7 @@ bespoke.evyy.net
 bespoke.iln8.net
 bespokeshirtsmail.com
 bespyscania.com
+bessttie.com
 best-click.pro
 best-girls-around.com
 best-global-apps.com
@@ -66866,6 +66913,7 @@ biz.appsflyer.com
 biz.live.xunlei.com
 bizmotion.jp
 biznolimit.com
+bizosama.com
 bizx.info
 bizzclick.com
 bj-api.ad.jiguang.cn
@@ -66916,8 +66964,10 @@ bladdersvictimbleak.com
 bladespanel.com
 bladessweepunprofessional.com
 bladswetis.com
+blahlivedsnowdrop.com
 blamechevyannually.com
 blamelessperfume.com
+blamingnuclearplasma.com
 blancoshrimp.com
 blank.juicer.cc
 blanksuppoint.com
@@ -66932,6 +66982,7 @@ blastswaggons.com
 blastworthwhilewith.com
 blaze-media.com
 blazemeter.evergage.com
+blazercachefactor.com
 blazesomeplacespecification.com
 bleaborahmagtgi.org
 bleachbit.com
@@ -66941,6 +66992,7 @@ bleachscarecrow.com
 blearspellaea.shop
 bleedlight.com
 bleedmarrow.com
+bleepgizmorecital.com
 blekko.com
 blellumgrittie.shop
 blendai.gotrackier.com
@@ -67008,6 +67060,7 @@ bloomclicks.offerstrack.net
 bloomnation.7eer.net
 blossomfertilizerproperly.com
 blossoms.com
+blotecardthumb.com
 blownsuperstitionabound.com
 blu5fdclr.com
 blubberrowan.com
@@ -67095,6 +67148,7 @@ bobbyscole.shop
 bobi-bobi.info
 bobi-mobi.info
 bobpiety.com
+bobsleddomesticglandular.com
 bockouphourgait.net
 boddawkin.shop
 bodegaseikon.shop
@@ -67145,6 +67199,7 @@ bomgar.evergage.com
 bonafides.club
 bond.iad-03.braze.com
 bondfondif.com
+bondingcloningribcage.com
 bonepa.com
 bonesimprovements.com
 boneteunfixt.shop
@@ -67198,6 +67253,7 @@ booster-vax.com
 booster.webtradecenter.com
 boostingads.com
 bootharchie.com
+bootingunpickedusable.com
 bootstrap-framework.org
 bootstrap.adtelligent.com
 bootstraplugin.com
@@ -67212,6 +67268,7 @@ boredcrown.com
 boreusorgans.top
 borghjism.com
 boringbegglanced.com
+boringherbalprewashed.com
 bornmandemicria.co.in
 bororango.com
 borotango.com
@@ -67246,6 +67303,7 @@ bottledfriendship.com
 bottlescharitygrowth.com
 bottleselement.com
 bottlestonightapp.com
+bottlestrivingtarget.com
 bottomthoughtvow.com
 boufigoaglem.net
 boughtjovialamnesty.com
@@ -67266,6 +67324,7 @@ bouteesh.com
 bouwhaici.net
 bouwofiwoaph.net
 bouzechoby.net
+bovinetimingunsaddle.com
 boweddemand.com
 bowelslipperypraised.com
 bowermisrule.com
@@ -67285,9 +67344,12 @@ boxernipplehopes.com
 boxerparliamenttulip.com
 boxiti.net
 boxlikepavers.com
+boxlikesedativespinach.com
 boxlivegarden.com
 boxofficehelping.com
 boxpr.aiservice.vn
+boxycupbearerjot.com
+boxypluckunrelated.com
 boyfriendtrimregistered.com
 boyishdetrimental.com
 boyunakylie.com
@@ -67416,6 +67478,7 @@ briefcasebuoyduster.com
 briefext.com
 brieflizard.com
 briefready.com
+brigadedelegatesandbox.com
 brightadnetwork.com
 brightcom.com
 brightdata.de
@@ -67452,6 +67515,7 @@ broadcastbed.com
 broadensilkslush.com
 broadsheetorsaint.com
 broadsheetspikesnick.com
+broadsidedaisysanta.com
 brocardcored.com
 brodieoccurs.shop
 brodmn.com
@@ -67478,10 +67542,12 @@ brostraffic.com
 brothersincash.com
 broughtcontract.com
 broughtenragesince.com
+browbeatcaramelstole.com
 brown-gas.com
 brownells.7eer.net
 brownyduer.com
 browse-boost.com
+browsecoherentunrefined.com
 browsekeeper.com
 browser-statistik.de
 browser.gwdang.com
@@ -67549,12 +67615,14 @@ btstats.devtribu.fr
 btvuiqgio.xyz
 btxliveprice.kceyazilim.com
 bubbledevotion.com
+bubblemayflowernephew.com
 bubblestownly.com
 bubrintta.com
 buchde01.webtrekk.net
 buckanimateretired.com
 bucketsofbanners.com
 buckeyekantars.com
+bucklechemistdensity.com
 buckridge.link
 bucksbooth.offerstrack.net
 bucksense.com
@@ -67640,6 +67708,7 @@ bumxmomcu.com
 bunceptsclosingh.com
 bundle-aka.moglistat.com
 bundle-geoip.herokuapp.com
+bundlemoviepumice.com
 bundlerenown.com
 bundles.moglistat.com
 bundoo.evergage.com
@@ -67931,6 +68000,7 @@ cache1.value-domain.com
 cached.harvester.hbpl.co.uk
 cachegorilla.xml.ak-is2.net
 cachuadirked.top
+cacklegrievingtank.com
 caclick.baidu.com
 cad.donga.com
 cade.clmbtech.com
@@ -67942,6 +68012,7 @@ cadsecs.com
 caesarmausoleum.com
 caesarporch.com
 caesarsshows.7eer.net
+cafeemsaimsust.com
 cagewervel.top
 caglaikr.net
 cagothie.net
@@ -67961,6 +68032,7 @@ cakesdenyconventional.com
 cakesdrum.com
 calamitydisc.com
 calamityfortuneaudio.com
+calamitymyselfprong.com
 calcescutler.shop
 calculateproducing.com
 calculatesymbols.com
@@ -68017,6 +68089,7 @@ campaigns.icubeswire.com
 campaigns.rioseo.com
 campaigns.williamhill.com
 campaigntracking01.com
+campfirecroutondecorator.com
 campingforthefunofit.com
 campingknown.com
 campootethys.com
@@ -68039,6 +68112,7 @@ canadianimperialbankofcommerce.demdex.net
 canadiantirecorporationlimited2.demdex.net
 canary.mathtag.com
 canarystarkcoincidence.com
+canceltrustingunderuse.com
 cancriberths.com
 canda.demdex.net
 candiddugprecedent.com
@@ -68054,11 +68128,13 @@ canganzimbi.com
 cangueunsheet.top
 caniamedia.com
 cannedrestrict.com
+canningpajamastint.com
 cannonclam.com
 cannonkit.com
 canoeeverywhereannihilate.com
 canoemissioninjunction.com
 canoevaguely.com
+canolamonthlyswapping.com
 canoperation.com
 canopusastray.top
 canorgirgu.net
@@ -68108,6 +68184,7 @@ care.help.360.cn
 carecredit.evergage.com
 careerealism.evergage.com
 carelesssequel.com
+carelessswimsuittabloid.com
 caressleazy.com
 careyads.offerstrack.net
 carfulsranquel.com
@@ -68808,6 +68885,7 @@ cezafomayosuyas.shop
 ceznscormatio.com
 cezoachu.net
 cf-cdn.adventori.com
+cf-oss.gname.net
 cf.aimtell.com
 cf.alcmpn.com
 cf.eco-tag.jp
@@ -68865,6 +68943,7 @@ chairscrack.com
 chaisehoorahs.com
 chaithoa.com
 chalconvex.top
+chaliceguzzlerlandlord.com
 chalkedretrieval.com
 chalkplayground.co
 challenge.360in.com
@@ -68995,6 +69074,7 @@ chekrilsoumpoab.net
 cheksoam.com
 chelonebarpost.com
 chelseafc.demdex.net
+chemicalssmuglyuntying.com
 chensenconter.com
 chequeholding.com
 cheriesruewort.shop
@@ -69020,6 +69100,7 @@ chicoamseque.net
 chiefdigitalofficer.evergage.com
 chieflyquantity.com
 chiglees.com
+chihuahuadoorstoppond.com
 chijauqybb.xyz
 childbirthabolishment.com
 childhoodstudioconversation.com
@@ -69029,6 +69110,8 @@ childlikeexample.com
 childtruantpaul.com
 chilicached.com
 chilican.com
+chilihandshakewing.com
+chilimonoxidesalary.com
 chillmobi.offerstrack.net
 chimerabellowstranger.com
 chinacontraryintrepid.com
@@ -69097,6 +69180,7 @@ chtatic.appspot.com
 chtntr.com
 chtsayil.com
 chubbycreature.com
+chubbyexemplaryhardiness.com
 chuchamobile.g2afse.com
 chuckledpulpparked.com
 chudaids.com
@@ -69170,6 +69254,7 @@ cirm.lsj.com
 cirrateremord.com
 cirtaisteept.net
 ciscoesfirring.guru
+citadelexampleruckus.com
 citatumpity.com
 citharahemps.shop
 citizencashmere.ojrq.net
@@ -69247,6 +69332,7 @@ claimedthwartweak.com
 claimeralsine.shop
 clair.iad-03.braze.com
 clairekabobs.com
+clambakefreenessunclasp.com
 clampalarmlightning.com
 clankexpelledidentification.com
 clarity.abacast.com
@@ -69767,6 +69853,7 @@ cobalten.com
 cobblercohog.com
 coblesrondel.shop
 cobocritus.com
+cobourgvenging.com
 cobrand.ria.com
 cobrowse-lax1.inq.com
 cobrowse-verizon.inq.com
@@ -80772,6 +80859,7 @@ karwobeton.com
 kasamba-webtracksdk.optimove.net
 kasfas.com
 kastafor.com
+kastooveshos.net
 kasumikarate.hanagasumi.net
 kasych.net
 kataprius.com
@@ -81123,6 +81211,7 @@ krkralovehradecky01.webtrekk.net
 krolikplatit.ru
 kronehit.adswizz.com
 krones01.webtrekk.net
+kronosoolites.top
 kronosspell.com
 krtrack.kartrocket.co
 ksb01.webtrekk.net
@@ -85414,6 +85503,7 @@ naj.sk
 nakedfulfilhairy.com
 nakladatelstvi-brazda.wz.cz
 nakooarsenal.com
+nakoomohalim.top
 nalroustaucmoux.net
 nalyticaframeofm.com
 namesakecapricorntotally.com
@@ -96419,6 +96509,7 @@ teasers.ru
 teaspoonbrave.com
 teaspoondaffodilcould.com
 teaspoonhumor.com
+teatsbummest.com
 tecaitouque.net
 tech-script.ru
 tech.adsplay.in
@@ -100406,6 +100497,7 @@ whauvebul.com
 wheceelt.net
 whechynetho.com
 wheddervenkata.shop
+wheeksoagroa.com
 wheeledfunctionstruthfully.com
 wheelify.cartzy.com
 wheelsbullyingindolent.com
