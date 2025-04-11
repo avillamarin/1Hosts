@@ -1,9 +1,9 @@
 # Title: 1Hosts (Lite)
-# Last modified: 2025-04-10T23:29:09.493Z
+# Last modified: 2025-04-11T01:01:13.171Z
 # ..............
 #  |URL: https://github.com/badmojr/1Hosts
-#  |Count: 103,986 rules!
-#  |Size: 2.21 MB
+#  |Count: 104,045 rules!
+#  |Size: 2.22 MB
 #  |
 #  |Credits & ©: https://o0.pages.dev/-data/lists/assets.txt
 #  |Licence: MPLv2,
@@ -38839,6 +38839,7 @@ m1.af.contentsquare.net
 metrics-shell.com
 metrics.client-eng.a2z.com
 ojlg6o-inapps.appsflyersdk.com
+osamapk.com
 pchome24h.api.useinsider.com
 piwik.mja.io
 predictiondexchange.com
@@ -39837,6 +39838,7 @@ a5283.casalemedia.com
 a5373.casalemedia.com
 a5391.casalemedia.com
 ads.umeng.com
+ads7-adnow.com
 adtvp.hit.gemius.pl
 adx-cn.ads.vungle.com
 analytics-pro.smartvel.com
@@ -41675,6 +41677,7 @@ l.longtailvideo.com
 mailer.kadince.com
 mediasource.actonservice.com
 mgoosdf3.emltrk.com
+n.ads7-adnow.com
 o4iqtwrab.cc.rs6.net
 ogw1xl-inapps.appsflyersdk.com
 ohpolly.api.useinsider.com
@@ -42577,6 +42580,7 @@ mafwsg-launches.appsflyersdk.com
 mit.db.com
 mlcrosoftonline.com.eu-secured.com
 molex.demdex.net
+nowosama.com
 origin-campaign.adpushup.com
 phoenix-widget.com
 pub-f14115157fe1b990e087.tracking.refersion.com
@@ -48739,6 +48743,7 @@ srv.amon1.net
 ssc.rfa.org
 ssl.o.qxmd.com
 sslwidget.criteo.net
+st-n.ads7-adnow.com
 t66wsk-inapps.appsflyersdk.com
 taiji.sina.cn
 ti36nu-cdn-settings.appsflyersdk.com
@@ -54574,6 +54579,7 @@ eu.ivitrack.com
 events-dre-op-dbankcloud-com-dre.appacc-region.dbankedge.cn
 fd73py-cdn-settings.appsflyersdk.com
 fi02wx-launches.appsflyersdk.com
+firstosama.com
 frk87a-conversions.appsflyersdk.com
 frk87a-register.appsflyersdk.com
 fxxslpn.pa-cd.com
@@ -57287,6 +57293,7 @@ o2freikarte.nonstoppartner.net
 occnqs-launches.appsflyersdk.com
 onebloodincprod.112.2o7.net
 onlyassigncoherence.com
+osamaiscool.com
 ourlittlenews.com
 p06f.t.eloqua.com
 pbswcr-cdn-settings.appsflyersdk.com
@@ -69850,6 +69857,7 @@ coastlinejudgement.com
 coationexult.com
 coatslilachang.com
 cobalten.com
+cobaltsanctionyodel.com
 cobblercohog.com
 coblesrondel.shop
 cobocritus.com
@@ -69859,6 +69867,7 @@ cobrowse-lax1.inq.com
 cobrowse-verizon.inq.com
 cobrowse.inq.com
 cobrowseeast.inq.com
+cobwebsituationstyling.com
 cobwebzincdelicacy.com
 cockyinaccessiblelighter.com
 cockysnailleather.com
@@ -70219,6 +70228,7 @@ concerneddisinterestedquestioning.com
 concernedwealth.pro
 concerningblasphemerollback.com
 concheck.adsafety.net
+conciergeeccentricstrained.com
 concludedstoredtechnique.com
 conclusionsmushyburn.com
 concours.fr
@@ -70569,6 +70579,7 @@ corpustushing.com
 corpvpn.specificmedia.com
 correlationcocktailinevitably.com
 correspondaspect.com
+corrodedriveroverfed.com
 corrupt-peak.com
 corruptbarelytent.com
 corruptobstacle.com
@@ -70699,6 +70710,7 @@ coushewitalouti.net
 cousins-brand.7eer.net
 couwainu.xyz
 couwhivu.com
+coverdistilltile.com
 coveredstress.com
 coveritlive.com
 covertcourse.com
@@ -70971,6 +70983,7 @@ crowdcontrol.lotame.com
 crowdedmass.com
 crowdignite.com
 crowdnextquoted.com
+crowdsuitcaseuntwist.com
 crowdynews.com
 crp-concursos.com
 crpdt.livejasmin.com
@@ -70997,13 +71010,16 @@ crumbrationally.com
 crumbtypewriterhome.com
 crummygoddess.com
 crumpet.xxxpornhd.pro
+crumpetprankerstench.com
 crumplylenient.com
+cruncherpatiencestoreroom.com
 crunchslipperyperverse.com
 crunchy-tango.dotabuff.com
 crunchyroll.adclixx.net
 crunchyroll.adnetasia.com
 crunchyroll.adtrackers.net
 crunchyroll.bannertrack.net
+crunchysheathstruck.com
 crushingaspirin.com
 crv.clickad.pl
 crvtrk.com
@@ -72267,6 +72283,7 @@ daringsupport.com
 dariolunus.com
 dark-reader.com
 darkenedplane.com
+darknessdrainablemoonlit.com
 darksmartproprietor.com
 daroptiy.com
 dartextremely.com
@@ -72598,6 +72615,7 @@ degradationrethink.com
 degradationtransaction.com
 degradeaccusationshrink.com
 degradeexpedient.com
+degreaseserpentwashhouse.com
 degreebristlesaved.com
 degreewhether.com
 deicticwidgie.shop
@@ -72727,6 +72745,7 @@ denoughtanoth.com
 densigissy.net
 denthaitingshospic.com
 dentistsinyourarea.com
+dentiststockunsoiled.com
 denypishing.shop
 denza.pro
 deostr.com
@@ -72844,6 +72863,7 @@ dev.reptracy.movad.net
 dev.stat-rock.com
 dev.ugdturner.com
 dev2pub.com
+devaluequalmrelative.com
 devastatedseparategourmet.com
 devastatedshorthandpleasantly.com
 devcname.indoleads.com
@@ -72935,6 +72955,7 @@ diapi.webgains.com
 diaspora-news.com
 dibbuksnoonlit.shop
 dicerchaster.top
+diceresembleshudder.com
 diceunacceptable.com
 dicheeph.com
 dichoabs.net
@@ -73048,6 +73069,7 @@ directaclick.com
 directcertificates.com
 directflights.ojrq.net
 direction-x.com
+directionotterrecharger.com
 directlycoldnesscomponent.com
 directlymilligramresponded.com
 directmobile.7eer.net
@@ -73112,10 +73134,12 @@ dishcling.com
 dishesha.net
 dishevelledoughtshall.com
 dishonourfondness.com
+dishtrekkerunderfoot.com
 dishwaterconcedehearty.com
 disingenuousmeasuredere.com
 disintegrateredundancyfen.com
 dislikequality.com
+dislodgeneversatirical.com
 dismalcompassionateadherence.com
 dismantleunloadaffair.com
 dismastrostra.com
@@ -73159,6 +73183,7 @@ disrepush.com
 disreputabletravelparson.com
 disrespectpreceding.com
 dissemblebendnormally.com
+distancedreamboatstoic.com
 distancefilmingamateur.com
 distantbelly.com
 distinguishedshrug.com
@@ -73376,6 +73401,7 @@ doctoryoungster.com
 documentaryselfless.com
 docurated.evergage.com
 docymas.com
+dodgyfactoidprecut.com
 dodk8rb03jif9.cloudfront.net
 dof9zd9l290mz.cloudfront.net
 doflygonan.com
@@ -73650,6 +73676,7 @@ droopcomate.top
 droopingfur.com
 dropdoneraining.com
 dropkickmedia.com
+dropletevaporateumpire.com
 droppalpateraft.com
 dropped.rtb.adx1.com
 droppingprofessionmarine.com
@@ -74384,6 +74411,7 @@ eliwitensirg.net
 elizabethcharles.7eer.net
 elizathings.com
 elkb01.webtrekk.net
+elkunbalanceunfounded.com
 ellanfolds.shop
 ellcurvth.com
 ellie.evyy.net
@@ -74443,6 +74471,7 @@ emc.demdex.net
 emea-v3.tracking.justpremium.com
 emeraldhecticteapot.com
 emergedmassacre.com
+emergencyidiomjokingly.com
 emeriedlimmock.shop
 emerite01.webtrekk.net
 emhnyqdeuwtnrh.com
@@ -74627,6 +74656,7 @@ epheefere.net
 ephokeerailoon.net
 ephraimguntub.com
 epicfoodmap.7eer.net
+epidermispushupvariable.com
 epigeeonionet.shop
 episciaranche.shop
 eplndhtrobl.com
@@ -75216,6 +75246,7 @@ fabricwaffleswomb.com
 facebook-ads.hara.vn
 facebook-repto1040s2.ahlamountada.com
 facebookid.younetmedia.com
+faceliftluminancetill.com
 facemail.com
 facemoods.com
 faceporn.com
@@ -75757,6 +75788,7 @@ fkpnpucrfrckq.com
 fl.btttag.com
 flabbygrindproceeding.com
 flagads.net
+flagstickmarathonsetback.com
 flairadscpc.xml-eu.ak-is2.net
 flakefanwort.shop
 flakierdzeren.shop
@@ -75955,6 +75987,7 @@ foomaque.net
 fooptoat.com
 foorcdn.com
 foostoug.com
+footholdmummifytwig.com
 footlocker.evergage.com
 footlogmerida.shop
 footnote.com
@@ -76547,6 +76580,7 @@ gaphoadsu.com
 gaptooju.net
 gaquxe8.site
 garbagebanquetintercept.com
+garbageshallotsnowiness.com
 garbanzos24.fun
 garciaestelles.com
 gardenbilliontraced.com
@@ -76558,6 +76592,7 @@ garlandshark.com
 garmentfootage.com
 garments.fitanalytics.com
 garmentsgovernmentcloset.com
+garnethamstringkeg.com
 garnethill.btttag.com
 garnishpoints.com
 garnishwas.com
@@ -76905,6 +76940,7 @@ ggle.lywf.me
 gglnntqufw.life
 gglx.me
 ggmxtaluohw.com
+ggreatshow.com
 ggreatstuff.com
 ggtraf.com
 ggwifobvx.com
@@ -77666,6 +77702,7 @@ gruffwhitsun.com
 grugnampouksi.net
 gruhodiksaipt.net
 grujeeroowie.com
+grumblestardomtactful.com
 grumft.com
 grumpyslayerbarton.com
 gruntremoved.com
@@ -79278,6 +79315,7 @@ imaginableexecutedmedal.com
 imaginary-struggle.com
 imaginaryawarehygienic.com
 imaginarylawmaker.com
+imaginarymankindname.com
 imaginaryspooky.com
 imagingkneelankiness.com
 imamictra.com
@@ -79436,6 +79474,7 @@ importanceborder.com
 importanceexhibitedamiable.com
 importantcheapen.com
 importantlyshow.com
+importantoperativestudied.com
 imported1x.xyz
 importedinsect.com
 imposecalm.com
@@ -79660,6 +79699,7 @@ informatica.demdex.net
 informationpenetrateconsidering.com
 informedderiderollback.com
 informers.sinoptik.ua
+informmyou.com
 informpay.com
 infospace.com
 infostroy.nnov.ru
@@ -81014,6 +81054,7 @@ kingadblock.com
 kingads.mobi
 kingads2.org
 kingbaba.org
+kingbole.com
 kingdeecn.cn
 kingrecommendation.com
 kingsfranzper.com
@@ -81410,6 +81451,7 @@ landing.sexkiste.com
 landingpagelagi.vn
 landings.hopghpfa.com
 landings.zcoptry.com
+landslideprisonsimile.com
 landwaycru.com
 lanesusanne.com
 laneyounger.com
@@ -81695,8 +81737,10 @@ lesserdragged.com
 lessonworkman.com
 lestaigames.com
 letaimparou.net
+lethargyplatingsatin.com
 letinclusionbone.com
 letitnews.com
+letmetralala.com
 letqejcjo.xyz
 letsbegin.online
 letssearch.com
@@ -81704,6 +81748,7 @@ letzonke.com
 leukemiaruns.com
 level.18huhu.com
 levelerlatosol.shop
+levelrunningunpadded.com
 leverseriouslyremarks.com
 levityheartinstrument.com
 levityquestionshandcuff.com
@@ -82980,6 +83025,7 @@ manapecmfq.com
 mandateowl.com
 mandatorypainter.com
 mangensaud.net
+mangerolympicssnort.com
 mango.offerstrack.net
 mangoads.net
 maniasensiblecompound.com
@@ -85222,6 +85268,7 @@ multioptik.com
 multiphoo.com
 multisetup.pro
 multiwall-ads.shop
+mummifiedpatienceunknowing.com
 mumuendymehn.com
 munchakhlame.top
 mundanenail.com
@@ -85475,6 +85522,7 @@ nabbr.com
 nabgrocercrescent.com
 nachodusking.com
 nachoomto.net
+nachophobiaunengaged.com
 nactx.com
 nad-stage1.ad-stir.com
 nad.ad-stir.com
@@ -85799,6 +85847,7 @@ newmytrp.com
 newnewton.pw
 newnns.com
 newopenx.simplethings.de
+newosama.com
 newplayable.dspunion.com
 newregazedatth.com
 newrepublic.evyy.net
@@ -86931,6 +86980,7 @@ onlinepuonline.com
 onlinesalespro.com
 onlinetroubledike.com
 onlineuserprotector.com
+onlinneoffers.com
 only.best-games.today
 onlyalad.net
 onlymega.com
@@ -87375,6 +87425,7 @@ outponyglorious.com
 outrageousjobless.com
 outratela.com
 outrightsham.com
+outrightstifflyvending.com
 outrotomr.com
 outseeltor.com
 outseylor.com
@@ -87402,6 +87453,7 @@ ov.yahoo.co.jp
 ovaleithermansfield.com
 ovenbifaces.cam
 overavesofefineg.org
+overbidsettingunderfeed.com
 overboardlocumout.com
 overcobalionom.com
 overcooked-construction.com
@@ -90969,6 +91021,7 @@ reco.v-mate.mobi
 recognified.net
 recognisepeaceful.com
 recognisetorchfreeway.com
+recoiltartlyundertake.com
 recombssuu.com
 recommend.outbrain.com
 recommendation-hybrid.wpdigital.net
@@ -91249,6 +91302,7 @@ removeverizon.net
 remploejuiashsat.com
 remudasfablers.shop
 renablylifts.shop
+renamereptiliantrance.com
 rencessedessations.com
 rencontreadultere.club
 rencontreshard.com
@@ -91642,6 +91696,7 @@ rivcash.com
 riverailj.rtb.adx1.com
 riverisland.demdex.net
 riverlead.ru
+riversideseizingtightness.com
 rivne.space
 riwhssuoploai.buzz
 rixaka.com
@@ -92423,6 +92478,7 @@ saltsleaseholder.com
 saltsupbrining.com
 salutationpersecutewindows.com
 saluterblamed.com
+salutetutortwiddling.com
 salvador24.com
 salvagefloat.com
 sam.msn.com
@@ -95506,6 +95562,7 @@ stongoapti.net
 stonierteddy.com
 stonkstime.com
 stonyfield.evergage.com
+stonysuingtartness.com
 stoobsugree.net
 stoodthestatueo.com
 stookoth.com
@@ -99450,6 +99507,7 @@ verspicary.top
 verticalfusion.g2afse.com
 verticallydeserve.com
 verticallyrational.com
+vertigovitalitywieldable.com
 vertismedia.co.uk
 vertmarkets.com
 vertoz.com
@@ -103583,6 +103641,7 @@ yoterup.g2afse.com
 yotta.scrolller.com
 you4cdn.com
 youaixx.xyz
+yougottet.com
 youlamedia.com
 youlouk.com
 youmi.net
