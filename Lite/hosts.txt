@@ -1,5 +1,5 @@
 # Title: 1Hosts (Lite)
-# Last modified: 2025-04-13T07:37:48.101Z
+# Last modified: 2025-04-13T08:28:19.452Z
 # ..............
 #  |URL: https://github.com/badmojr/1Hosts
 #  |Count: 103,912 rules!
