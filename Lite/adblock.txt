@@ -1,8 +1,8 @@
 ! Title: 1Hosts (Lite)
-! Last modified: 2025-04-15T13:19:24.598Z
+! Last modified: 2025-04-15T14:25:55.854Z
 ! ..............
 !  |URL: https://github.com/badmojr/1Hosts
-!  |Count: 54,487 rules!
+!  |Count: 54,489 rules!
 !  |Size: 1.12 MB
 !  |
 !  |Credits & ©: https://o0.pages.dev/-data/lists/assets.txt
@@ -5209,6 +5209,7 @@
 ||mixpanel-proxy.ted.com^
 ||sedge.aarp.org^
 ||collect.babybus.com^
+||apishow.babybus.com^
 ||hilton.data.adobedc.net^
 ||collector.unsplash.com^
 ||marketing.dropbox.com^
@@ -6036,6 +6037,7 @@
 ||adtriba.com^
 ||cloudfront-labs.amazonaws.com^
 ||tr.attribuly.com^
+||apppromoteapi.babybus.com^
 ||pmir.3g.qq.com^
 ||rndskittytor.com^
 ||b.foxsports.com^

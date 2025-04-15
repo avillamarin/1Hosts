@@ -1,8 +1,8 @@
 ; Title: 1Hosts (Lite)
-; Last modified: 2025-04-15T13:19:24.447Z
+; Last modified: 2025-04-15T14:25:55.371Z
 ; ..............
 ;  |URL: https://github.com/badmojr/1Hosts
-;  |Count: 108,974 rules!
+;  |Count: 108,978 rules!
 ;  |Size: 2.87 MB
 ;  |
 ;  |Credits & ©: https://o0.pages.dev/-data/lists/assets.txt
@@ -15,7 +15,7 @@
 ;  \____________________
 
 $TTL 300
-@ SOA localhost. root.localhost. 1744723160 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1744727148 43200 3600 259200 300
   NS  localhost.
 
 *.mobile.events.data.microsoft.com CNAME .
@@ -10408,6 +10408,8 @@ mixpanel-proxy.ted.com CNAME .
 sedge.aarp.org CNAME .
 *.collect.babybus.com CNAME .
 collect.babybus.com CNAME .
+*.apishow.babybus.com CNAME .
+apishow.babybus.com CNAME .
 *.hilton.data.adobedc.net CNAME .
 hilton.data.adobedc.net CNAME .
 *.collector.unsplash.com CNAME .
@@ -12062,6 +12064,8 @@ adtriba.com CNAME .
 cloudfront-labs.amazonaws.com CNAME .
 *.tr.attribuly.com CNAME .
 tr.attribuly.com CNAME .
+*.apppromoteapi.babybus.com CNAME .
+apppromoteapi.babybus.com CNAME .
 *.pmir.3g.qq.com CNAME .
 pmir.3g.qq.com CNAME .
 *.rndskittytor.com CNAME .

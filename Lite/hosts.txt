@@ -1,8 +1,8 @@
 # Title: 1Hosts (Lite)
-# Last modified: 2025-04-15T13:19:24.362Z
+# Last modified: 2025-04-15T14:25:56.538Z
 # ..............
 #  |URL: https://github.com/badmojr/1Hosts
-#  |Count: 104,922 rules!
+#  |Count: 104,924 rules!
 #  |Size: 3.03 MB
 #  |
 #  |Credits & ©: https://o0.pages.dev/-data/lists/assets.txt
@@ -12878,6 +12878,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 collect.babybus.com
 0.0.0.0 n21lbs-skadsdkless.appsflyersdk.com
 0.0.0.0 pixel.lilystyle.ai
+0.0.0.0 apishow.babybus.com
 0.0.0.0 berryessa.stats.live-video.net
 0.0.0.0 dnl0ye-launches.appsflyersdk.com
 0.0.0.0 hilton.data.adobedc.net
@@ -15440,6 +15441,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 googleads.g.doubleclick.com
 0.0.0.0 nbitai-cdn-settings.appsflyersdk.com
 0.0.0.0 tr.attribuly.com
+0.0.0.0 apppromoteapi.babybus.com
 0.0.0.0 cdn.adsok.co
 0.0.0.0 crmapi52.hubhc.com
 0.0.0.0 pmir.3g.qq.com
