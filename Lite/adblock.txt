@@ -215,7 +215,6 @@
 ||clarium.io^
 ||unagi.amazon.com^
 ||spotxchange.com^
-||online-metrix.net^
 ||logx.optimizely.com^
 ||acuityplatform.com^
 ||semasio.net^
