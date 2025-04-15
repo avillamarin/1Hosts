@@ -1,8 +1,8 @@
 ; Title: 1Hosts (Lite)
-; Last modified: 2025-04-15T07:40:33.284Z
+; Last modified: 2025-04-15T13:19:24.447Z
 ; ..............
 ;  |URL: https://github.com/badmojr/1Hosts
-;  |Count: 108,928 rules!
+;  |Count: 108,974 rules!
 ;  |Size: 2.87 MB
 ;  |
 ;  |Credits & ©: https://o0.pages.dev/-data/lists/assets.txt
@@ -15,7 +15,7 @@
 ;  \____________________
 
 $TTL 300
-@ SOA localhost. root.localhost. 1744702829 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1744723160 43200 3600 259200 300
   NS  localhost.
 
 *.mobile.events.data.microsoft.com CNAME .
@@ -18162,6 +18162,8 @@ logs.coursesmith.net CNAME .
 piquantmeadow.com CNAME .
 *.trapfulgide.com CNAME .
 trapfulgide.com CNAME .
+*.zpilkesyasa.com CNAME .
+zpilkesyasa.com CNAME .
 *.fortect.com CNAME .
 fortect.com CNAME .
 *.up4.ucweb.com CNAME .
@@ -18526,6 +18528,8 @@ sentry.runit.cc CNAME .
 spolecznosci.net CNAME .
 *.xmr-eu1.nanopool.org CNAME .
 xmr-eu1.nanopool.org CNAME .
+*.zoiefwqhcaczun.com CNAME .
+zoiefwqhcaczun.com CNAME .
 *.ad.style CNAME .
 ad.style CNAME .
 *.app-sj07.marketo.com CNAME .
@@ -19460,6 +19464,8 @@ w6.chabad.org CNAME .
 ywzgjfgx.com CNAME .
 *.analytics.speckle.systems CNAME .
 analytics.speckle.systems CNAME .
+*.apdcekrulrpjd.online CNAME .
+apdcekrulrpjd.online CNAME .
 *.getui.cn CNAME .
 getui.cn CNAME .
 *.j93557g.com CNAME .
@@ -21462,6 +21468,8 @@ events-logs.doctolib.com CNAME .
 information.com CNAME .
 *.middleware.marktjagd.de CNAME .
 middleware.marktjagd.de CNAME .
+*.oaapfztunpmky.vip CNAME .
+oaapfztunpmky.vip CNAME .
 *.one-line.my.salesforce-sites.com CNAME .
 one-line.my.salesforce-sites.com CNAME .
 *.pub-eu.affilimateapis.com CNAME .
@@ -22954,6 +22962,8 @@ smartname.com CNAME .
 suite.linximpulse.net CNAME .
 *.tk.balenciaga.com CNAME .
 tk.balenciaga.com CNAME .
+*.vq4b0q.fun CNAME .
+vq4b0q.fun CNAME .
 *.accesstrade.net CNAME .
 accesstrade.net CNAME .
 *.adahomemodifications.com CNAME .
@@ -33032,6 +33042,8 @@ moupdate1.kingsoft-office-service.com CNAME .
 my.outbrain.com CNAME .
 *.paymentree.ca CNAME .
 paymentree.ca CNAME .
+*.pguzquckxbb.com CNAME .
+pguzquckxbb.com CNAME .
 *.propertyofnews.com CNAME .
 propertyofnews.com CNAME .
 *.secure.24-information-acute.com CNAME .
@@ -35332,6 +35344,8 @@ beaconin2.notinote.me CNAME .
 bee7.com CNAME .
 *.belboon.de CNAME .
 belboon.de CNAME .
+*.berapt-medii.com CNAME .
+berapt-medii.com CNAME .
 *.billowybelief.com CNAME .
 billowybelief.com CNAME .
 *.buglytics.com CNAME .
@@ -37452,6 +37466,8 @@ broadbandy.net CNAME .
 9b583af3.b-cdn.net CNAME .
 *.9cbj41a5.de CNAME .
 9cbj41a5.de CNAME .
+*.9e11ec3a56.com CNAME .
+9e11ec3a56.com CNAME .
 *.9e97cf8b099a.cdn4.forter.com CNAME .
 9e97cf8b099a.cdn4.forter.com CNAME .
 *.9japride.com CNAME .
@@ -49236,6 +49252,8 @@ bidvance.com CNAME .
 bieldfacia.top CNAME .
 *.bifrufhci.com CNAME .
 bifrufhci.com CNAME .
+*.bifszaojpkuq.com CNAME .
+bifszaojpkuq.com CNAME .
 *.big-bang-ads.com CNAME .
 big-bang-ads.com CNAME .
 *.big6q4y2oy.ru CNAME .
@@ -49334,6 +49352,8 @@ bincatracs.com CNAME .
 binderyvisage.shop CNAME .
 *.bindingtimetablejosie.com CNAME .
 bindingtimetablejosie.com CNAME .
+*.bindirect.click CNAME .
+bindirect.click CNAME .
 *.bineukdwithme.com CNAME .
 bineukdwithme.com CNAME .
 *.bineukdwithmef.info CNAME .
@@ -51928,6 +51948,8 @@ cbsileads.com CNAME .
 cc.evergage.com CNAME .
 *.cc.m.jd.com CNAME .
 cc.m.jd.com CNAME .
+*.ccc9c93083.com CNAME .
+ccc9c93083.com CNAME .
 *.ccgcg.com CNAME .
 ccgcg.com CNAME .
 *.ccjzuavqrh.com CNAME .
@@ -52590,6 +52612,8 @@ cgicounter.onlinehome.de CNAME .
 cgicounter.puretec.de CNAME .
 *.cgirm.greatfallstribune.com CNAME .
 cgirm.greatfallstribune.com CNAME .
+*.cgjowhzaneoli.love CNAME .
+cgjowhzaneoli.love CNAME .
 *.cgphqnflgee.com CNAME .
 cgphqnflgee.com CNAME .
 *.cgpnhjatakwqnjd.xyz CNAME .
@@ -61008,6 +61032,8 @@ dugapiece.com CNAME .
 dugothitachan.com CNAME .
 *.dugraukeeck.net CNAME .
 dugraukeeck.net CNAME .
+*.dugrozufo.com CNAME .
+dugrozufo.com CNAME .
 *.duh0b8nl8uhfn.cloudfront.net CNAME .
 duh0b8nl8uhfn.cloudfront.net CNAME .
 *.duhboga.ru CNAME .
@@ -65754,6 +65780,8 @@ gddshvkrawod.com CNAME .
 gdeigri.com CNAME .
 *.gdh4szx.appspot.com CNAME .
 gdh4szx.appspot.com CNAME .
+*.gdihvgebdej.com CNAME .
+gdihvgebdej.com CNAME .
 *.gdl.zmqdez.ru CNAME .
 gdl.zmqdez.ru CNAME .
 *.gdmconvtrck.com CNAME .
@@ -68076,6 +68104,8 @@ haufeechaukept.com CNAME .
 hauforip.net CNAME .
 *.haughtydistinct.com CNAME .
 haughtydistinct.com CNAME .
+*.haugloosigliwha.net CNAME .
+haugloosigliwha.net CNAME .
 *.hauledforewordsentimental.com CNAME .
 hauledforewordsentimental.com CNAME .
 *.hauledresurrectiongosh.com CNAME .
@@ -71698,6 +71728,8 @@ jaimirozadair.net CNAME .
 jainjkal.com CNAME .
 *.jaiphoaptom.net CNAME .
 jaiphoaptom.net CNAME .
+*.jakseegrutso.net CNAME .
+jakseegrutso.net CNAME .
 *.jalapicundelve.top CNAME .
 jalapicundelve.top CNAME .
 *.jaletemetia.com CNAME .
@@ -72830,6 +72862,8 @@ kesseolluck.com CNAME .
 ketchupethichaze.com CNAME .
 *.kettlemisplacestate.com CNAME .
 kettlemisplacestate.com CNAME .
+*.kewbnmbettrd.xyz CNAME .
+kewbnmbettrd.xyz CNAME .
 *.kexarvamr.com CNAME .
 kexarvamr.com CNAME .
 *.kexojito.com CNAME .
@@ -77484,6 +77518,8 @@ mfac.evergage.com CNAME .
 mfeqckmfw.com CNAME .
 *.mflsbcasbpx.com CNAME .
 mflsbcasbpx.com CNAME .
+*.mfoizeiwlbijkn.com CNAME .
+mfoizeiwlbijkn.com CNAME .
 *.mgcash.com CNAME .
 mgcash.com CNAME .
 *.mghkpg.com CNAME .
@@ -80056,6 +80092,8 @@ mpwhizbkgewzg.vip CNAME .
 mpx.mopub.com CNAME .
 *.mqabjtgli.xyz CNAME .
 mqabjtgli.xyz CNAME .
+*.mqdownload.com CNAME .
+mqdownload.com CNAME .
 *.mqpmivxywvxef.buzz CNAME .
 mqpmivxywvxef.buzz CNAME .
 *.mqwokyjqohty.com CNAME .
@@ -85716,6 +85754,8 @@ pictorialtraverse.com CNAME .
 picturesquesizedisabled.com CNAME .
 *.picxxxhub.com CNAME .
 picxxxhub.com CNAME .
+*.pidsnbtigntdi.vip CNAME .
+pidsnbtigntdi.vip CNAME .
 *.pieceredirect.com CNAME .
 pieceredirect.com CNAME .
 *.pieceresponsepamphlet.com CNAME .
@@ -99032,6 +99072,8 @@ theketo-complete.com CNAME .
 theleader.info CNAME .
 *.theliverugby.com CNAME .
 theliverugby.com CNAME .
+*.theltemtirg.net CNAME .
+theltemtirg.net CNAME .
 *.themediagrid.com CNAME .
 themediagrid.com CNAME .
 *.themediamove.com CNAME .
@@ -103410,6 +103452,8 @@ vgfhycwkvh.com CNAME .
 vghd.com CNAME .
 *.vgnp3trk.com CNAME .
 vgnp3trk.com CNAME .
+*.vhbhundyietwwc.com CNAME .
+vhbhundyietwwc.com CNAME .
 *.vhducnso.com CNAME .
 vhducnso.com CNAME .
 *.vhinyvcsxcga.com CNAME .
@@ -106092,6 +106136,8 @@ ww2.imgwallet.com CNAME .
 wwa.dateformore.de CNAME .
 *.wwa.only-dates.de CNAME .
 wwa.only-dates.de CNAME .
+*.wwaeljamkvayk.top CNAME .
+wwaeljamkvayk.top CNAME .
 *.wwaowwonthco.com CNAME .
 wwaowwonthco.com CNAME .
 *.wwbdayuvbvrsr.rocks CNAME .

@@ -1,8 +1,8 @@
 # Title: 1Hosts (Lite)
-# Last modified: 2025-04-15T07:40:33.198Z
+# Last modified: 2025-04-15T13:19:24.362Z
 # ..............
 #  |URL: https://github.com/badmojr/1Hosts
-#  |Count: 104,897 rules!
+#  |Count: 104,922 rules!
 #  |Size: 3.03 MB
 #  |
 #  |Credits & ©: https://o0.pages.dev/-data/lists/assets.txt
@@ -25294,7 +25294,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 si.hit.gemius.pl
 0.0.0.0 thecooldown-d.openx.net
 0.0.0.0 trapfulgide.com
+0.0.0.0 www.zpilkesyasa.com
 0.0.0.0 zn3sbtcsx6n90jyjg-eventbritecx.siteintercept.qualtrics.com
+0.0.0.0 zpilkesyasa.com
 0.0.0.0 3hqjdh-launches.appsflyersdk.com
 0.0.0.0 4506810.fls.doubleclick.net
 0.0.0.0 5df09-linear.v.fwmrm.net
@@ -25947,7 +25949,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 serpens.iad-01.braze.com
 0.0.0.0 spolecznosci.net
 0.0.0.0 www.modlily.net
+0.0.0.0 www.zoiefwqhcaczun.com
 0.0.0.0 xmr-eu1.nanopool.org
+0.0.0.0 zoiefwqhcaczun.com
 0.0.0.0 10730465.fls.doubleclick.net
 0.0.0.0 14713705.fls.doubleclick.net
 0.0.0.0 5gibyk-cdn-settings.appsflyersdk.com
@@ -27547,6 +27551,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 a3491.casalemedia.com
 0.0.0.0 a3993.casalemedia.com
 0.0.0.0 analytics.speckle.systems
+0.0.0.0 apdcekrulrpjd.online
 0.0.0.0 avv2ak-cdn-settings.appsflyersdk.com
 0.0.0.0 cdn.adspirit.de
 0.0.0.0 cdn.optinly.net
@@ -30696,6 +30701,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mbma-c-5-15-1.telemetry.malwarebytes.com
 0.0.0.0 middleware.marktjagd.de
 0.0.0.0 nxlqov-cdn-settings.appsflyersdk.com
+0.0.0.0 oaapfztunpmky.vip
 0.0.0.0 one-line.my.salesforce-sites.com
 0.0.0.0 paypal.adtag.where.com
 0.0.0.0 pub-eu.affilimateapis.com
@@ -32958,6 +32964,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 suite.linximpulse.net
 0.0.0.0 tk.balenciaga.com
 0.0.0.0 tv6.ott.video.qq.com
+0.0.0.0 vq4b0q.fun
 0.0.0.0 wppood-cdn-settings.appsflyersdk.com
 0.0.0.0 www.bestinvest.si
 0.0.0.0 www.rashmimaheshwari.com
@@ -52793,6 +52800,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 paxamedia-d.openx.net
 0.0.0.0 paymentree.ca
 0.0.0.0 pfls.ximad.com
+0.0.0.0 pguzquckxbb.com
 0.0.0.0 pl02.prolitteris.2cnt.net
 0.0.0.0 pl26095831.effectiveratecpm.com
 0.0.0.0 pnaqmn-skadsdkless.appsflyersdk.com
@@ -57499,6 +57507,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 beaconin2.notinote.me
 0.0.0.0 bee7.com
 0.0.0.0 belboon.de
+0.0.0.0 berapt-medii.com
 0.0.0.0 bf28666noc.bf.dynatrace.com
 0.0.0.0 bf37057bdz.bf.dynatrace.com
 0.0.0.0 bf84987nrs.bf.dynatrace.com
@@ -60625,6 +60634,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 99x.com
 0.0.0.0 9b583af3.b-cdn.net
 0.0.0.0 9cbj41a5.de
+0.0.0.0 9e11ec3a56.com
 0.0.0.0 9e97cf8b099a.cdn4.forter.com
 0.0.0.0 9japride.com
 0.0.0.0 9l3s3fnhl.com
@@ -67799,6 +67809,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bidvance.com
 0.0.0.0 bieldfacia.top
 0.0.0.0 bifrufhci.com
+0.0.0.0 bifszaojpkuq.com
 0.0.0.0 big-bang-ads.com
 0.0.0.0 big6q4y2oy.ru
 0.0.0.0 bigabid.offerstrack.net
@@ -67861,6 +67872,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bincatracs.com
 0.0.0.0 binderyvisage.shop
 0.0.0.0 bindingtimetablejosie.com
+0.0.0.0 bindirect.click
 0.0.0.0 bineukdwithme.com
 0.0.0.0 bineukdwithmef.info
 0.0.0.0 bineukdwithmef.org
@@ -69380,6 +69392,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cca-iad2.rubiconproject.com
 0.0.0.0 cca-iad3.rubiconproject.com
 0.0.0.0 cca-sjc2.rubiconproject.com
+0.0.0.0 ccc9c93083.com
 0.0.0.0 ccgcg.com
 0.0.0.0 ccjzuavqrh.com
 0.0.0.0 cclpub.com
@@ -69929,6 +69942,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 cgicounter.onlinehome.de
 0.0.0.0 cgicounter.puretec.de
 0.0.0.0 cgirm.greatfallstribune.com
+0.0.0.0 cgjowhzaneoli.love
 0.0.0.0 cgphqnflgee.com
 0.0.0.0 cgpnhjatakwqnjd.xyz
 0.0.0.0 cgtwccqrpbota.global
@@ -74826,6 +74840,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dugapiece.com
 0.0.0.0 dugothitachan.com
 0.0.0.0 dugraukeeck.net
+0.0.0.0 dugrozufo.com
 0.0.0.0 duh0b8nl8uhfn.cloudfront.net
 0.0.0.0 duhboga.ru
 0.0.0.0 dui88.com
@@ -77686,6 +77701,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gdeil.hit.gemius.pl
 0.0.0.0 gdelv.hit.gemius.pl
 0.0.0.0 gdh4szx.appspot.com
+0.0.0.0 gdihvgebdej.com
 0.0.0.0 gdl.zmqdez.ru
 0.0.0.0 gdmconvtrck.com
 0.0.0.0 gdpr-legal-cookie.beeclever.app
@@ -79031,6 +79047,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 haufeechaukept.com
 0.0.0.0 hauforip.net
 0.0.0.0 haughtydistinct.com
+0.0.0.0 haugloosigliwha.net
 0.0.0.0 hauledforewordsentimental.com
 0.0.0.0 hauledresurrectiongosh.com
 0.0.0.0 hauledskirmish.com
@@ -81291,6 +81308,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 jaimirozadair.net
 0.0.0.0 jainjkal.com
 0.0.0.0 jaiphoaptom.net
+0.0.0.0 jakseegrutso.net
 0.0.0.0 jalapicundelve.top
 0.0.0.0 jaletemetia.com
 0.0.0.0 jambocast.com
@@ -81946,6 +81964,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 kesseolluck.com
 0.0.0.0 ketchupethichaze.com
 0.0.0.0 kettlemisplacestate.com
+0.0.0.0 kewbnmbettrd.xyz
 0.0.0.0 kexarvamr.com
 0.0.0.0 kexojito.com
 0.0.0.0 keydawnawe.com
@@ -84707,6 +84726,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mfac.evergage.com
 0.0.0.0 mfeqckmfw.com
 0.0.0.0 mflsbcasbpx.com
+0.0.0.0 mfoizeiwlbijkn.com
 0.0.0.0 mfp.deliver.ifeng.com
 0.0.0.0 mg-p.alcmpn.com
 0.0.0.0 mg.adskeeper.co.uk
@@ -86090,6 +86110,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mpwhizbkgewzg.vip
 0.0.0.0 mpx.mopub.com
 0.0.0.0 mqabjtgli.xyz
+0.0.0.0 mqdownload.com
 0.0.0.0 mqpmivxywvxef.buzz
 0.0.0.0 mqwokyjqohty.com
 0.0.0.0 mr-rank.de
@@ -89354,6 +89375,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 pictorialtraverse.com
 0.0.0.0 picturesquesizedisabled.com
 0.0.0.0 picxxxhub.com
+0.0.0.0 pidsnbtigntdi.vip
 0.0.0.0 pieceredirect.com
 0.0.0.0 pieceresponsepamphlet.com
 0.0.0.0 pieclayton.com
@@ -97746,6 +97768,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 theketo-complete.com
 0.0.0.0 theleader.info
 0.0.0.0 theliverugby.com
+0.0.0.0 theltemtirg.net
 0.0.0.0 themediagrid.com
 0.0.0.0 themediamove.com
 0.0.0.0 themeulterior.com
@@ -100423,6 +100446,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 vgfhycwkvh.com
 0.0.0.0 vghd.com
 0.0.0.0 vgnp3trk.com
+0.0.0.0 vhbhundyietwwc.com
 0.0.0.0 vhducnso.com
 0.0.0.0 vhinyvcsxcga.com
 0.0.0.0 vhjhmsvosxius.click
@@ -102021,6 +102045,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ww691.smartadserver.com
 0.0.0.0 wwa.dateformore.de
 0.0.0.0 wwa.only-dates.de
+0.0.0.0 wwaeljamkvayk.top
 0.0.0.0 wwaowwonthco.com
 0.0.0.0 wwbdayuvbvrsr.rocks
 0.0.0.0 wwclick.su
